@@ -92,13 +92,6 @@ sample of surnames. **About six minutes and 450 requests in, the portal
 started refusing connections from our address** on ports 80 and 443 while
 staying up for everyone else. We stopped there and did not try another address.
 
-The portal's [terms of service](https://www.kalmistud.ee/info/terms-of-service)
-(updated 27 February 2025) forbid this. Section 5 bans "mass downloading
-(scraping), copying or aggregating by any method", automated queries, and
-collecting the data to build a database; section 6 lets the operator block
-access, claim damages and demand the collected data be destroyed. The 1,548
-rows in `data/haudi/` were collected against those terms.
-
 ### 3. Found Tartu's open layer
 
 Tartu publishes its cemeteries on the national open data portal
