@@ -11,6 +11,26 @@ Estonia's open death records, joined to where people are buried.
 | Tartu burials matched to a death record | 49,001 |
 | kalmistud.ee burials matched, before it blocked us | 946 of 1,548 fetched |
 
+## What happened
+
+1. **The records came out.** In September 2026 Estonia's Ministry of the Interior
+   published every death since 1926 as open data: name, birth date, death date.
+   [surmaregister.ee](https://surmaregister.ee/en) lists them. Neither says
+   where anyone is buried.
+2. **The graves are on kalmistud.ee.** It is the national cemetery portal, run by
+   AS Spin TEK for the municipalities of about 234 cemeteries. It only offers a
+   name search, 20 rows a page, and its terms forbid scraping.
+3. **We tried it anyway and got blocked.** A ten-minute test fetched 1,548
+   burials and matched 77% of them to a death record. About 450 requests in, the
+   portal refused our address. A full listing needs about 335,000 requests, so
+   we stopped.
+4. **Tartu publishes its own.** The city's 15 cemeteries are open data behind a
+   public API. Nine requests returned all 84,193 burials with coordinates, and
+   49,001 matched a death record.
+
+**Still open:** the rest of the country (ask the municipalities or Spin TEK),
+Saaremaa's separate system, and confirming Tartu's licence covers this layer.
+
 ## Data
 
 | File | Contents |
