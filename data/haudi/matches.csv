@@ -1,0 +1,947 @@
+first_name,surname,born,died,buried,cemetery,plot,lat,lon,match
+ANN,VÕSANG,,1954-06-17,1954-06-20,Jõelähtme kalmistu,"Üldosa, 1A, 668",,,name+death
+ANNA,VÕSANG,,1952-09-16,1952-09-21,Jõelähtme kalmistu,"Üldosa, 3B, 257",,,name+death
+EDUARD,VÕSANG,1893-02-19,1971-01-15,1971-01-23,Jõelähtme kalmistu,"Üldosa, 1A, 667",,,exact
+ELVINE,VÕSANG,1897-12-11,1970-12-06,1970-12-12,Jõelähtme kalmistu,"Üldosa, 1A, 667",,,exact
+HANS,VÕSANG,1861-11-08,1929-01-24,,Jõelähtme kalmistu,"Üldosa, 1A, 668",,,exact
+HEINU,VÕSANG,1928-10-29,1990-10-25,1990-10-31,Jõelähtme kalmistu,"Üldosa, 1A, 667",,,exact
+HELJA,VÕSANG,1927-01-18,1927-09-18,,Jõelähtme kalmistu,"Üldosa, 1A, 667",,,dates
+HUGO,VÕSANG,1922-07-01,1927-09-02,,Jõelähtme kalmistu,"Üldosa, 1A, 667",,,exact
+MARIA,VÕSANG,,1953-07-16,1953-07-19,Jõelähtme kalmistu,"Üldosa, 1A, 712",,,name+death
+MARTIN,VÕSANG,1884-04-13,1933-06-27,,Jõelähtme kalmistu,"Üldosa, 1A, 712",,,name+birth
+RUTI,VÕSANG,1933-06-17,2015-05-16,,Jõelähtme kalmistu,"Üldosa, 1A, 667",,,exact
+ALINE,VÕSANG,1899-02-28,1987-01-12,1987-11-14,Jõelähtme kalmistu,Hauaplatsi asukoht teadmata.,,,exact
+MARIKA,VÕSANG,1955-07-16,2024-12-18,2025-08-03,Raasiku Uus kalmistu,"Raasiku Uus kalmistu, I, RIDA 4, PLATS 8",,,exact
+HEINARD,VÕSANG,1930-04-05,1952-10-24,1952-11-02,Raasiku Vana kalmistu,"vana, III, _RIDA 30, PLATS 10",,,name+death
+PAULINE,VÕSANG,1899-03-23,1961-09-18,1961-09-24,Raasiku Vana kalmistu,"vana, III, _RIDA 30, PLATS 10",,,name+death
+JOHANNES,VÕSANG,,1931-04-26,1931-05-26,Tallinna Rahumäe kalmistu,"V, JV G, 27-2",,,name+burial
+VOLDEMAR,VÕSANG,1904-07-14,1961-06-13,1961-06-17,Jõelähtme kalmistu,Hauaplatsi asukoht teadmata.,,,exact
+ALINE,VÕSANG,,1953-09-14,1953-09-20,Saha kalmistu,Hauaplatsi asukoht teadmata.,,,name+death
+MARTA,SÕELSEP,1913-02-02,1981-11-18,1981-11-24,Haapsalu Metsakalmistu,"Üldosa, 2, 2-3",,,exact
+LIISA,SÕELSEP,,1957-02-25,,Haapsalu Vana kalmistu,"Üldosa, 11, 13-5",,,name+death
+VOLDEMAR,SÕELSEP,1905-11-05,1956-06-01,,Haapsalu Vana kalmistu,"Üldosa, 11, 13-5",,,exact
+ERICH,SÕELSEP,1926-12-10,1927-04-04,1927-04-05,Tallinna Hiiu-Rahu kalmistu,Hauaplatsi asukoht teadmata.,,,name+burial
+ALEKSANDER,SÕELSEP,1906-11-27,1957-10-17,1957-10-20,Tallinna Liiva kalmistu,"V, A, 3-2",,,name+burial
+TÕNU,SÕELSEP,1947-11-20,1987-06-03,1987-06-07,Tallinna Liiva kalmistu,"V, A, 3-2",,,name+death
+VLADIMIR,SHAROV,1952-07-24,1998-09-14,1998-09-17,Riigiküla kalmistu,"Riigiküla kalmistu, 3, 8655",,,exact
+LEONID,SHAROV,1945-09-16,2017-04-12,,Sindi Uus kalmistu,"Sindi Uus kalmistu, 22, 10_1",,,exact
+ALEXANDER,SHAROV,1938-12-14,2004-03-01,,Tallinna Liiva kalmistu,"R, P III, 9-17",,,exact
+ARKADY,SHAROV,1923-03-08,2022-04-20,,Tallinna Liiva kalmistu,"Vi, L III, 6-5",,,exact
+VICTOR,SHAROV,1938-01-10,2020-12-22,,Tallinna Liiva kalmistu,"Vi, M IV, 9-13",,,exact
+VLADIMIR,SHAROV,1945-05-11,2025-10-28,,Tallinna Liiva kalmistu,"M, H, 33a-1",,,exact
+ARNOLD,SHAROV,1938-06-04,2016-06-20,,Tallinna Pärnamäe kalmistu,"VIII, 53D, A-182",,,exact
+ALEXANDER,SHAROV,1953-02-16,2011-06-08,2011-06-12,Uulu kalmistu,"Üldosa, 24, 30-4",,,exact
+SERGEY,SHAROV,1927-05-31,2014-08-20,2014-09-25,Vana-Pärnu kalmistu,"Üldosa, Kvartal 26, 19-2",,,exact
+ADA,TAMMANN,1907-09-28,1938-06-28,1938-06-30,Alevi kalmistu,"Plokk 9, 108, 1",,,exact
+AIME,TAMMANN,1944-02-04,1996-02-21,1996-02-25,Alevi kalmistu,"Plokk 7, 95, 20",,,name+death
+ALVIINE,TAMMANN,1908-11-09,1994-12-09,1994-12-17,Alevi kalmistu,"Plokk 9, 104, 18",,,exact
+ANNA,TAMMANN,1881-07-04,1965-11-29,1965-12-01,Alevi kalmistu,"Plokk 8, 126, 7",,,exact
+ASTA,TAMMANN,1937-06-21,2025-01-09,,Alevi kalmistu,"Plokk 7, 85, 29",,,exact
+ELMAR,TAMMANN,,1944-09-21,,Alevi kalmistu,"Plokk 1, 7, 3",,,name+death
+ELSA,TAMMANN,1917-04-22,2010-01-04,2010-01-07,Alevi kalmistu,"Plokk 4, 56, 73",,,exact
+EMILIE,TAMMANN,1871-03-31,1968-08-15,1968-08-18,Alevi kalmistu,"Plokk 4, 49a, 52",,,exact
+HEIKI,TAMMANN,1966-10-03,2022-07-17,2022-07-23,Alevi kalmistu,"Plokk 7, 95, 20",,,exact
+HEINI-HILLAR,TAMMANN,1942-12-31,1998-03-29,1998-04-03,Alevi kalmistu,"Plokk 7, 95, 20",,,name+death
+JÜRI,TAMMANN,1902-02-10,1985-02-18,1985-02-23,Alevi kalmistu,"Plokk 9, 104, 18",,,exact
+KALJU,TAMMANN,1931-02-19,2005-07-09,2005-07-13,Alevi kalmistu,"Plokk 5, 26, 30",,,exact
+KSENIA,TAMMANN,1902-09-04,1994-01-19,1994-01-24,Alevi kalmistu,"Plokk 1, 7, 3",,,exact
+LEILI,TAMMANN,1932-08-31,1960-09-01,1960-09-04,Alevi kalmistu,"Plokk 3, 36, 10",,,name+death
+LIA,TAMMANN,1930-04-17,2022-07-28,2022-09-03,Alevi kalmistu,"Plokk 9, 104, 10",,,exact
+LIIA,TAMMANN,1962-09-13,2017-02-11,2017-02-18,Alevi kalmistu,"Plokk 7, 85, 29",,,exact
+MARIE,TAMMANN,1867-04-01,1954-08-13,1954-08-16,Alevi kalmistu,"Plokk 3, 36, 10",,,name+death
+MIHKEL,TAMMANN,1902-11-23,1985-05-01,1985-05-08,Alevi kalmistu,"Plokk 1, 18, 51",,,name+years
+RIINA,TAMMANN,1899-08-18,1987-03-30,,Alevi kalmistu,"Plokk 1, 18, 51",,,name+years
+VIKTOR,TAMMANN,1931-04-09,2020-06-17,2020-06-26,Alevi kalmistu,"Plokk 7, 85, 29",,,exact
+JAKOB,TAMMANN,1895-07-27,1968-05-31,1968-06-04,Hageri kalmistu,"Hageri kalmistu, II-J, 5-13",,,exact
+MARIE,TAMMANN,1899-11-26,1971-01-11,1971-01-15,Hageri kalmistu,"Hageri kalmistu, II-J, 5-13",,,dates
+,TAMMANN,1927-06-10,1927-06-10,1927-06-11,Hageri kalmistu,"Hageri kalmistu, II-J, 5-13",,,dates
+JAAK,TAMMANN,1881-05-31,1960-02-28,,Halliste kalmistu,"Üldosa, 37, 63",,,name+years
+OLGA,TAMMANN,1907-11-27,1958-04-29,,Halliste kalmistu,"Üldosa, 37, 63",,,name+years
+JOHANN,TAMMANN,1915-04-13,1992-05-12,,Jaagupi-Uduvere kalmistu,"Uduvere kalmistu, 4, 3-6",,,dates
+EVALD-JOHANNES,TAMMANN,1905-08-21,1947-10-16,1947-10-22,Jüri kalmistu,"Vana osa, Vasak 4, 16-5",,,dates
+MARTA-ALIISE,TAMMANN,1908-01-21,1947-10-16,1947-10-22,Jüri kalmistu,"Vana osa, Vasak 4, 16-5",,,dates
+HILJA,TAMMANN,1934-03-08,2013-01-05,2013-05-12,Kõrgessaare kalmistu,"Üldosa, XVI kvartal, 6-11",,,exact
+SALME,TAMMANN,1903-12-02,1981-06-25,1981-06-28,Kõrgessaare kalmistu,"Üldosa, X kvartal, 2-5",,,name+death
+OLEV,TAMMANN,1968-11-24,2025-11-06,,Laitse kalmistu,"Üldosa, Teine, 8-5b",,,exact
+ARNE,TAMMANN,1958-10-30,1958-11-02,,Lüganuse kalmistu,"Üldosa, I A, 28/614",,,name+years
+HEINO,TAMMANN,1935-05-30,1980-04-06,1980-04-10,Lüganuse kalmistu,"Üldosa, I A, 28/614",,,exact
+ÕILME,TAMMANN,1936-03-22,2021-12-16,2021-12-22,Lüganuse kalmistu,"Üldosa, I A, 28/614",,,exact
+ENE,TAMMANN,1945-02-05,2026-08-02,2026-08-11,Otepää Uus kalmistu,"Vana osa, III kvartal, 10",,,exact
+ANNE,TAMMANN,1908-07-16,1996-10-10,,Paide Sillaotsa kalmistu,"Üldosa, F, 98",,,exact
+NIKOLAI,TAMMANN,1901-12-16,1967-10-22,,Paide Sillaotsa kalmistu,"Üldosa, F, 98",,,exact
+ANASTASIA,TAMMANN,1935-05-09,2024-12-25,,Pärnu Metsakalmistu,"Üldosa, 9, 19-19",,,exact
+ANDRUS,TAMMANN,1968-09-11,2015-02-18,2015-03-07,Pärnu Metsakalmistu,"Üldosa, 12, 27-24",,,exact
+ANTI,TAMMANN,1941-07-29,2000-09-07,2000-09-12,Pärnu Metsakalmistu,"Üldosa, 12, 27-24",,,exact
+JAAN,TAMMANN,1897-03-22,1983-04-12,1983-04-12,Pärnu Metsakalmistu,"Üldosa, 12, 18-1",,,exact
+LEA,TAMMANN,1944-10-29,2022-03-31,2022-05-16,Pärnu Metsakalmistu,"Üldosa, 12, 27-24",,,exact
+MARIE,TAMMANN,1902-10-08,1993-02-16,1993-02-19,Pärnu Metsakalmistu,"Üldosa, 12, 18-1",,,exact
+ANNA,TAMMANN,1858-11-13,1939-01-31,,Pihlaka Puiestee kalmistu,"Pihlaka, III järk, 83",,,name+years
+GEORG,TAMMANN,1892-08-29,1939-08-16,,Pihlaka Puiestee kalmistu,"Pihlaka, III järk, 83",,,exact
+JAAK,TAMMANN,1866-03-03,1959-12-13,1959-12-27,Pihlaka Puiestee kalmistu,"Pihlaka, I järk, 123",,,name+death
+LINDA,TAMMANN,1935-11-21,1997-04-21,,Ridala Uus kalmistu,"Uus, IV, 3-2",,,name+years
+VELLO,TAMMANN,1935-01-24,1996-03-10,,Ridala Uus kalmistu,"Uus, IV, 3-2",,,name+years
+HANS,TAMMANN,1940-10-10,2015-12-10,,Sindi Uus kalmistu,"Sindi Uus kalmistu, 23, 24",,,exact
+VELLO,TAMMANN,1943-12-27,2003-04-06,2003-04-10,Sindi Uus kalmistu,"Sindi Uus kalmistu, 2, 75",,,exact
+JOHANNES,TAMMANN,1906-01-04,1954-04-28,,Sindi Vana kalmistu,"Sindi Vana Kalmistu, 4/2, 19",,,name+birth
+ALVIINE,TAMMANN,1899-09-30,1984-09-30,1984-10-04,Suure-Jaani kalmistu,"Järve, A-38, 71",,,name+death
+AUGUST,TAMMANN,1913-05-14,1990-09-02,1990-09-08,Suure-Jaani kalmistu,"Järve, A-51, 71",,,exact
+ENNO,TAMMANN,1944-05-22,1994-02-22,,Suure-Jaani kalmistu,"Järve, A-51, 71",,,exact
+KALJO,TAMMANN,1941-07-21,1983-11-27,1983-12-04,Suure-Jaani kalmistu,"Järve, A-51, 71",,,exact
+LINDA-AGATE,TAMMANN,1910-11-25,1985-11-06,1985-11-14,Suure-Jaani kalmistu,"Järve, A-51, 71",,,dates
+TIINA,TAMMANN,1957-06-23,2017-11-15,2017-11-24,Suure-Jaani kalmistu,"Järve, A-51, 71",,,exact
+HARRI,TAMMANN,1927-07-11,1994-05-29,,Tallinna Hiiu-Rahu kalmistu,"HK, I, 20-6A",,,name+death
+ANTONINA,TAMMANN,1901-06-29,1942-02-11,1942-02-15,Tallinna Liiva kalmistu,Hauaplatsi asukoht teadmata.,,,name+burial
+MAI,TAMMANN,,1946-01-24,1946-01-26,Tallinna Liiva kalmistu,Hauaplatsi asukoht teadmata.,,,name+burial
+VIRVE,TAMMANN,1928-02-22,1983-08-24,1983-08-28,Tallinna Liiva kalmistu,"V, D, 11-33",,,name+death
+EVI,TAMMANN,1932-07-24,2003-07-24,2003-08-12,Tallinna Pärnamäe kalmistu,"PIII, 25, E-724",,,exact
+ANTON,TAMMANN,1904-03-01,1954-10-16,1954-10-20,Tallinna Rahumäe kalmistu,"V, JV I, 21-12",,,name+burial
+AUGUST,TAMMANN,,1934-07-27,1934-07-29,Tallinna Rahumäe kalmistu,"V, JV H, 9-9",,,name+death
+JÜRI,TAMMANN,,1934-11-08,1934-11-08,Tallinna Rahumäe kalmistu,"V, PA AII, 12-11",,,name+burial
+MATI,TAMMANN,1944-09-04,2017-10-09,,Tallinna Rahumäe kalmistu,"V, JV G, 4-2",,,exact
+MIINA,TAMMANN,,1955-07-28,1955-07-30,Tallinna Rahumäe kalmistu,"V, KV III/I, 25-3",,,name+burial
+TIIU,TAMMANN,1930-09-27,1996-06-08,1996-06-24,Tallinna Rahumäe kalmistu,"V, JV I, 21-12",,,name+burial
+VENDA,TAMMANN,1932-10-06,2010-01-09,,Tallinna Rahumäe kalmistu,"V, KV V/I, 22-1",,,exact
+VILHELMINE,TAMMANN,1904-06-10,1990-09-20,1990-09-26,Tallinna Rahumäe kalmistu,"V, JV I, 21-12",,,name+burial
+ANNA,TAMMANN,,1953-09-15,1953-09-20,Tallinna Siselinna kalmistu,"A, AN I-2, 10-13",,,name+death
+ELISE,TAMMANN,1895-02-19,1935-11-19,1935-11-22,Tallinna Siselinna kalmistu,Hauaplatsi asukoht teadmata.,,,dates
+JULIA,TAMMANN,1889-07-04,1962-09-21,1962-09-23,Tallinna Siselinna kalmistu,"A, AN II-3, 10B-1",,,exact
+CATHARINA,TAMMANN,1874-03-24,1957-07-17,1957-07-20,Tori kalmistu,"Endine luterikalmistu, 1, 13-2",,,name+death
+HEINRICH,TAMMANN,1870-03-19,1943-12-05,,Tori kalmistu,"Endine luterikalmistu, 1, 13-2",,,name+years
+MADIS,TAMMANN,1945-07-10,2003-11-07,2003-11-11,Tori kalmistu,"Endine luterikalmistu, 5, 11-9",,,exact
+OLGA,TAMMANN,1910-02-12,1996-03-01,1996-03-07,Tori kalmistu,"Endine luterikalmistu, 1, 13-2",,,exact
+PEET,TAMMANN,1848-08-11,1935-02-04,,Tori kalmistu,"Endine luterikalmistu, 6, 9-2",,,name+years
+JAAN,TAMMANN,1899-11-07,1980-12-13,1980-12-19,Uulu kalmistu,"Üldosa, 2, 10ab-8",,,exact
+ALEKSANDER,TAMMANN,1904-05-25,1982-07-05,1982-07-05,Vana-Pärnu kalmistu,"Üldosa, Kvartal 26, 10-2",,,name+years
+HILDA,TAMMANN,1914-06-06,1995-09-02,,Vana-Pärnu kalmistu,"Üldosa, Kvartal 26, 10-2",,,name+years
+ILSE,TAMMANN,1912-11-19,2003-08-15,2003-08-21,Vana-Pärnu kalmistu,"Üldosa, Kvartal 14, 3-6",,,exact
+KONSTANTIN,TAMMANN,1912-04-14,1983-01-10,1983-01-11,Vana-Pärnu kalmistu,"Üldosa, Kvartal 29, 8-13",,,exact
+LEONIDA,TAMMANN,1924-05-22,2009-02-16,2009-02-19,Vana-Pärnu kalmistu,"Üldosa, Kvartal 29, 8-13",,,exact
+ALFRED,TAMMANN,1947-07-05,2008-01-23,,Viljandi Kõpu kalmistu,"Üldosa, 9, 99",,,exact
+MAIMU JOHANNA,TAMMANN,1925-04-01,1931-05-19,,Viljandi Pauluse Koguduse kalmistu,"Vana osa, Vana I, 9-22",,,exact
+HARRI,TAMMANN,1929-01-30,1997-11-23,1997-11-27,Viljandi Vana kalmistu,"Jaani Kogudus, Jaani IV, 216-6",,,name+death
+JAAN,TAMMANN,1871-11-02,1929-01-14,1929-01-18,Viljandi Vana kalmistu,"Pauluse kogudus, Pauluse VI, 95-2",,,exact
+JAAN,TAMMANN,1954-02-19,2021-10-22,2021-11-07,Viljandi Vana kalmistu,"Jaani Kogudus, Jaani IV, 209-2",,,exact
+JOHANN,TAMMANN,,1931-08-21,1931-08-23,Viljandi Vana kalmistu,"Õigeusu kogudus, Õigeusu I, 225-2a",,,name+death
+JÜRI,TAMMANN,1910-07-22,1975-05-16,1975-05-20,Viljandi Vana kalmistu,"Jaani Kogudus, Jaani IV, 209-2",,,exact
+ALMA,TAMMANN,1891-04-01,1971-05-18,1971-05-22,Alevi kalmistu,Hauaplatsi asukoht teadmata.,,,exact
+ELTS,TAMMANN,1874-10-10,1955-07-16,1955-07-18,Alevi kalmistu,Hauaplatsi asukoht teadmata.,,,name+death
+JAAN,TAMMANN,1874-01-30,1956-12-11,1956-12-16,Alevi kalmistu,Hauaplatsi asukoht teadmata.,,,name+death
+KALJO,TAMMANN,1941-07-21,1983-11-27,,Suure-Jaani kalmistu,Hauaplatsi asukoht teadmata.,,,exact
+VÄINO,TAMMANN,1941-01-13,1998-03-15,1998-03-19,Tapa kalmistu,Hauaplatsi asukoht teadmata.,,,exact
+AINI,KASK,1935-02-28,2015-08-01,2015-10-03,Aegviidu Vana kalmistu,"Üldosa, II, 20-8",,,exact
+ALEKSANDER,KASK,1888-03-05,1935-06-12,1935-06-16,Aegviidu Vana kalmistu,"Üldosa, I, 16-8",,,name+death
+ANTONINA,KASK,1924-05-19,1943-12-04,1943-12-08,Aegviidu Vana kalmistu,"Üldosa, V, ?-?",,,name+death
+ELLA,KASK,1911-06-02,1995-09-07,1995-09-16,Aegviidu Vana kalmistu,"Üldosa, II, 20-8",,,name+death
+ETI-SIRJE,KASK,1937-10-19,2012-04-20,2012-05-05,Aegviidu Vana kalmistu,"Üldosa, I, 28-4",,,exact
+MADIS,KASK,1864-01-22,1936-04-09,1936-04-14,Aegviidu Vana kalmistu,"Üldosa, I, 4a-2",,,name+death
+PEETER,KASK,1947-08-12,1948-04-04,1948-04-11,Aegviidu Vana kalmistu,"Üldosa, V, ?-?",,,name+death
+VOLDEMAR,KASK,1917-02-03,1958-05-02,1958-05-07,Aegviidu Vana kalmistu,"Üldosa, III, 7-7",,,name+birth
+ALIIDE,KASK,1910-10-04,1979-12-21,,Alatskivi kalmistu,"Üldosa, VIII kvartal, 54",,,exact
+ARMILDE,KASK,1913-08-15,1970-05-22,,Alatskivi kalmistu,"Üldosa, VIII kvartal, 81",,,name+years
+HERMANN,KASK,1910-03-15,1943-04-20,,Alatskivi kalmistu,"Üldosa, VIII kvartal, 81",,,exact
+KÜLLIKE,KASK,1943-01-18,2012-03-15,,Alatskivi kalmistu,"Üldosa, VIII kvartal, 81",,,exact
+MATTI,KASK,1941-05-31,2006-11-22,,Alatskivi kalmistu,"Üldosa, VIII kvartal, 81",,,dates
+TOIVO,KASK,1939-09-05,2016-12-18,2016-12-22,Alatskivi kalmistu,"Üldosa, VIII kvartal, 81",,,exact
+AATSO,KASK,1930-11-14,1948-09-21,1948-09-27,Alevi kalmistu,"Plokk 6, 59, 153",,,exact
+ADELHEIDE,KASK,1891-08-28,1959-04-14,1959-04-18,Alevi kalmistu,"Plokk 1, 17, 25",,,name+death
+ALIIDE,KASK,1907-04-10,2005-07-15,2005-07-20,Alevi kalmistu,"Plokk 2, 22, 28",,,exact
+ANNA,KASK,1882-09-05,1948-01-16,,Alevi kalmistu,"Plokk 2, 22, 28",,,name+years
+ELIISE,KASK,1909-08-09,2004-10-10,2004-10-15,Alevi kalmistu,"Plokk 8, 124, 9",,,exact
+ELISABETH,KASK,1906-12-13,1994-09-06,1994-09-10,Alevi kalmistu,"Plokk 6, 59, 123",,,exact
+ELMAR,KASK,1907-03-23,1974-06-12,1974-06-14,Alevi kalmistu,"Plokk 9, 109, 24",,,exact
+ELO,KASK,1904-05-25,1979-04-23,1979-04-28,Alevi kalmistu,"Plokk 6, 59, 232",,,name+years
+ELS,KASK,1933-07-11,1935-12-14,,Alevi kalmistu,"Plokk 6, 73a, 11",,,name+years
+ELSA,KASK,1903-05-01,1969-02-21,1969-02-26,Alevi kalmistu,"Plokk 6, 59, 153",,,exact
+ENDEL,KASK,1922-07-22,1980-10-15,1980-10-19,Alevi kalmistu,"Plokk 1, 1, 25",,,name+years
+ENN,KASK,1944-05-21,2012-11-02,2012-11-09,Alevi kalmistu,"Plokk 6, 59, 123",,,exact
+ERICH,KASK,1912-10-09,1986-10-22,1986-10-28,Alevi kalmistu,"Plokk 6, 69, 11",,,name+years
+ERVIN-JOHANNES,KASK,1930-03-16,1987-08-29,1987-09-05,Alevi kalmistu,"Plokk 8, 124, 9",,,dates
+HANS,KASK,1866-06-11,1954-05-13,,Alevi kalmistu,"Plokk 9, 109, 24",,,name+death
+HANS,KASK,1901-08-19,1979-04-12,1979-04-19,Alevi kalmistu,"Plokk 5, 25, 23",,,name+years
+HELLE,KASK,1941-02-03,2025-03-26,2025-04-06,Alevi kalmistu,"Plokk 6, 67, 14",,,exact
+HELLE,KASK,1947-07-18,2020-04-22,2020-07-04,Alevi kalmistu,"Plokk 6, 59, 153",,,exact
+HILDEGART,KASK,1891-03-22,1966-07-11,1966-07-14,Alevi kalmistu,"Plokk 6, 73a, 11",,,dates
+JAAN,KASK,1931-06-13,1997-12-19,1997-12-23,Alevi kalmistu,"Plokk 6, 73a, 11",,,exact
+JAAN,KASK,1926-02-15,1990-09-23,1990-09-30,Alevi kalmistu,"Plokk 4, 15, 8",,,name+years
+JAAN,KASK,1859-02-03,1936-03-24,,Alevi kalmistu,"Plokk 4, 15, 8",,,name+years
+JAAN,KASK,1866-01-26,1942-05-21,,Alevi kalmistu,"Plokk 2, 22, 28",,,name+years
+JOHANNES,KASK,1906-05-14,1982-04-29,1982-05-05,Alevi kalmistu,"Plokk 6, 67, 14",,,exact
+JÜRI,KASK,1854-03-16,1943-03-02,,Alevi kalmistu,"Plokk 6, 73a, 11",,,name+years
+KARLI,KASK,1930-09-06,1993-05-30,1993-06-03,Alevi kalmistu,"Plokk 9, 97, 11",,,dates
+LEIDA,KASK,1922-09-07,1991-04-20,1991-04-25,Alevi kalmistu,"Plokk 5, 27, 35",,,exact
+LEIDA,KASK,1945-11-08,2020-12-03,2020-12-06,Alevi kalmistu,"Plokk 2, 24, 34",,,exact
+LIISA,KASK,1877-12-31,1958-10-12,1958-10-17,Alevi kalmistu,"Plokk 9, 97, 15",,,name+death
+LIISA,KASK,1920-12-18,2002-11-20,2002-11-24,Alevi kalmistu,"Plokk 1, 1, x",,,exact
+LILLY,KASK,1917-07-05,1992-07-06,,Alevi kalmistu,"Plokk 9, 109, 24",,,name+years
+MARET,KASK,1935-03-27,2017-11-28,2017-12-06,Alevi kalmistu,"Plokk 5, 26, 29",,,exact
+MARET,KASK,1920-06-18,1998-11-02,1998-11-05,Alevi kalmistu,"Plokk 2, 21, 43",,,exact
+MARIA,KASK,1862-11-27,1963-08-06,1963-08-08,Alevi kalmistu,"Plokk 5, 25, 23",,,name+death
+MARIA,KASK,1896-03-12,1991-11-20,1991-11-23,Alevi kalmistu,"Plokk 5, 25, 23",,,name+years
+MARIE,KASK,1876-09-05,1961-01-05,1961-01-08,Alevi kalmistu,"Plokk 6, 59, 232",,,name+death
+OSKAR,KASK,,1942-04-13,,Alevi kalmistu,"Plokk 9, 96, 2",,,name+death
+RAUL,KASK,1989-06-12,1989-06-27,1989-07-01,Alevi kalmistu,"Plokk 9, 97, 11",,,exact
+REINHOLD,KASK,1893-11-25,1975-12-02,1975-12-06,Alevi kalmistu,"Plokk 6, 73a, 11",,,name+years
+RENE,KASK,1957-05-17,1996-12-19,1996-12-22,Alevi kalmistu,"Plokk 9, 97, 11",,,exact
+RIINA,KASK,1870-06-04,1961-05-07,1961-05-10,Alevi kalmistu,"Plokk 9, 105, 1",,,name+death
+RUTH,KASK,1930-07-17,2016-08-22,2016-10-08,Alevi kalmistu,"Plokk 9, 97, 11",,,exact
+SELMA,KASK,1909-01-30,1997-12-11,1997-12-17,Alevi kalmistu,"Plokk 2, 24, 34",,,exact
+THEODOR,KASK,1913-06-15,2000-03-10,2000-03-16,Alevi kalmistu,"Plokk 5, 27, 35",,,exact
+UNO-TOIVO,KASK,1934-11-22,2008-11-15,2008-11-20,Alevi kalmistu,"Plokk 5, 26, 29",,,exact
+ARMAND,KASK,1907-03-15,1994-11-04,,Ambla kalmistu,"Üldosa, 2, 210",,,name+death
+LILLI,KASK,1902-12-01,1985-06-27,,Ambla kalmistu,"Üldosa, 2, 210",,,name+death
+MIHKEL,KASK,1863-11-16,1935-06-12,,Ambla kalmistu,"Üldosa, 2, 210",,,exact
+ALVIINE-VILHELMINE,KASK,1891-07-19,1978-02-26,1978-03-04,Ao kalmistu,"Üldosa, 2, 26-5",,,exact
+MARIA,KASK,1891-12-21,1984-08-25,1984-08-28,Ao kalmistu,"Üldosa, 1, 5-9",,,exact
+OLEV,KASK,1953-07-31,2026-08-12,2026-09-19,Ao kalmistu,"Üldosa, 2, 11-2",,,exact
+ALMA,KASK,1927-04-29,2020-11-28,,Aruküla kalmistu,"Vana , Kesk 4, 1-5",,,exact
+ANDRES,KASK,1951-05-13,2011-08-01,,Audru kalmistu,"Üldosa, 3, 231",,,exact
+HILDA,KASK,1928-08-02,2004-09-22,,Audru kalmistu,"Üldosa, 5, 110",,,exact
+ALIIDE,KASK,1908-03-23,1981-05-29,1981-06-05,Avinurme kalmistu,"Keskmine kalmistu, V, 7-3",,,dates
+ALINE,KASK,1908-02-22,1966-11-26,1966-12-03,Avinurme kalmistu,"Keskmine kalmistu, IV, 21-2",,,dates
+ANDRES,KASK,1942-12-13,1972-03-25,1972-06-23,Avinurme kalmistu,"Vana kalmistu, II, 38-6",,,dates
+ANETTE,KASK,1913-08-03,2000-01-23,2000-01-29,Avinurme kalmistu,"Vana kalmistu, II, 38-6",,,dates
+ANNE,KASK,1950-08-25,1953-01-19,1953-01-25,Avinurme kalmistu,"Keskmine kalmistu, V, 7-4",,,dates
+ANTS,KASK,1948-05-21,2024-04-02,2024-05-18,Avinurme kalmistu,"Keskmine kalmistu, VI, 3-4",,,dates
+ARVI,KASK,1945-07-27,2002-11-02,2002-11-09,Avinurme kalmistu,"Keskmine kalmistu, VI, 11-5",,,dates
+AUGUST,KASK,1907-02-16,1973-10-28,1973-11-03,Avinurme kalmistu,"Keskmine kalmistu, VI, 11-5",,,dates
+AUGUST,KASK,1903-10-21,1976-04-29,1976-05-08,Avinurme kalmistu,"Keskmine kalmistu, IV, 20-6",,,dates
+ELDUR,KASK,1936-06-28,1984-09-20,,Avinurme kalmistu,"Keskmine kalmistu, VI, 9-8",,,dates
+ELISE-MARIE,KASK,1908-10-26,1974-01-03,1974-01-10,Avinurme kalmistu,"Keskmine kalmistu, VI, 11-5",,,dates
+ELLA-ANETTE,KASK,1914-12-23,1970-10-01,1970-10-08,Avinurme kalmistu,"Vana kalmistu, I, 17-8",,,dates
+ENNO,KASK,1943-07-29,1986-10-09,1986-10-14,Avinurme kalmistu,"Keskmine kalmistu, VI, 11-5",,,dates
+EVALD,KASK,1925-06-23,1978-12-09,1978-12-16,Avinurme kalmistu,"Keskmine kalmistu, V, 7-4",,,dates
+ILSE,KASK,1935-12-13,1936-02-09,1936-02-15,Avinurme kalmistu,"Vana kalmistu, II, 38-6",,,dates
+JAAN,KASK,1948-06-11,1988-09-07,1988-09-10,Avinurme kalmistu,"Keskmine kalmistu, V, 7-4",,,dates
+JOHANNES,KASK,1909-08-10,1991-03-15,1991-03-22,Avinurme kalmistu,"Keskmine kalmistu, V, 11-5",,,dates
+JOHANNES,KASK,1916-02-07,1986-05-02,1986-05-11,Avinurme kalmistu,"Keskmine kalmistu, VI, 21-8",,,dates
+KALJU,KASK,1970-09-17,1971-11-02,1971-11-10,Avinurme kalmistu,"Keskmine kalmistu, VI, 9-8",,,dates
+KARL,KASK,1919-12-26,1993-04-02,1993-04-07,Avinurme kalmistu,"Keskmine kalmistu, VI, 3-4",,,dates
+KARL,KASK,1909-07-15,1975-08-01,1975-08-05,Avinurme kalmistu,"Keskmine kalmistu, V, 7-3",,,dates
+KARL,KASK,1889-09-20,1961-04-24,1961-04-28,Avinurme kalmistu,"Keskmine kalmistu, V, 15-10",,,dates
+KATTA,KASK,1886-10-28,1958-01-18,1958-01-26,Avinurme kalmistu,"Vana kalmistu, II, 38-4",,,dates
+LEENA,KASK,1875-04-28,1931-04-25,1931-04-29,Avinurme kalmistu,"Vana kalmistu, II, 34-5",,,name+death
+LEONHARD,KASK,1909-09-16,1986-11-23,1986-11-28,Avinurme kalmistu,"Keskmine kalmistu, V, 20-8",,,dates
+LIISA,KASK,1887-10-06,1969-10-11,1969-10-16,Avinurme kalmistu,"Keskmine kalmistu, V, 15-10",,,dates
+LYDIA,KASK,1925-01-18,2007-06-09,2007-07-21,Avinurme kalmistu,"Keskmine kalmistu, V, 15-10",,,dates
+MART,KASK,1869-06-15,1948-12-23,,Avinurme kalmistu,"Vana kalmistu, II, 33-1",,,exact
+PAUL,KASK,1922-05-16,1975-04-24,1975-04-30,Avinurme kalmistu,"Keskmine kalmistu, VI, 13-5",,,dates
+SELMA,KASK,1912-03-29,1969-09-14,1969-09-18,Avinurme kalmistu,"Keskmine kalmistu, IV, 20-6",,,dates
+TEET,KASK,1951-04-29,1989-03-15,1989-03-21,Avinurme kalmistu,"Keskmine kalmistu, VI, 11-5",,,dates
+TOIVO,KASK,1962-09-20,2002-12-07,2002-12-12,Avinurme kalmistu,"Keskmine kalmistu, VI, 9-8",,,dates
+VALVE,KASK,1927-02-18,2018-12-22,2018-12-29,Avinurme kalmistu,"Keskmine kalmistu, V, 7-4",,,dates
+VIRVE,KASK,1928-07-05,1999-10-20,1999-10-24,Avinurme kalmistu,"Keskmine kalmistu, VI, 13-5",,,dates
+VOLDEMAR,KASK,1926-11-23,1971-12-08,1971-12-12,Avinurme kalmistu,"Vana kalmistu, II, 22-3",,,dates
+ANTS,KASK,1925-09-21,2002-12-21,,Elva kalmistu,"Vana kalmistu, Kvartal III, 8-18",,,exact
+HELJULA,KASK,1931-11-18,2012-04-26,,Elva kalmistu,"Vana kalmistu, Kvartal III, 8-18",,,exact
+METHA,KASK,1921-01-03,1992-04-01,,Häädemeeste EAÕ kalmistu,"lõunakvartal , XVII, 3, 17",,,exact
+ALEKSANDER,KASK,1923-02-11,1978-10-27,1978-11-02,Haapsalu Metsakalmistu,"Üldosa, 18, 11-3",,,exact
+ALEKSANDER,KASK,1919-04-20,1985-04-26,1985-05-04,Haapsalu Metsakalmistu,"Üldosa, 37, 2-2",,,name+birth
+ALEKSANDER,KASK,1900-11-23,1990-09-30,1990-10-04,Haapsalu Metsakalmistu,"Üldosa, 36, 10-2",,,name+death
+ANTS,KASK,1948-08-10,1992-11-10,1992-11-14,Haapsalu Metsakalmistu,"Üldosa, 45, 4-7",,,exact
+ASTA,KASK,1928-01-10,2021-01-19,2021-01-22,Haapsalu Metsakalmistu,"Üldosa, 19, 5-5",,,exact
+EDGAR,KASK,1931-10-24,1993-02-08,1993-02-08,Haapsalu Metsakalmistu,"Üldosa, 40, 3-9",,,name+years
+ELMAR,KASK,1955-12-11,2006-01-20,2006-01-26,Haapsalu Metsakalmistu,"Üldosa, 22, 13-8",,,exact
+EMILIA,KASK,1916-12-25,1983-10-20,1983-10-26,Haapsalu Metsakalmistu,"Üldosa, 37, 2-2",,,exact
+HEINO,KASK,1965-04-23,2014-01-03,2014-01-10,Haapsalu Metsakalmistu,"Üldosa, 20, 2-9",,,exact
+ILME,KASK,1959-06-26,2017-03-29,2017-04-16,Haapsalu Metsakalmistu,"Üldosa, 11, 9-3",,,exact
+JOHANNES,KASK,1918-02-05,2006-03-09,2006-03-13,Haapsalu Metsakalmistu,"Üldosa, 46, 5-12",,,exact
+KAROLINE,KASK,1903-12-16,1991-11-24,1991-11-28,Haapsalu Metsakalmistu,"Üldosa, 36, 10-2",,,name+years
+KULDAR,KASK,1971-05-02,2008-02-27,2008-03-08,Haapsalu Metsakalmistu,"Üldosa, 44, 6-1",,,exact
+LAINE,KASK,1927-11-09,2015-10-20,2015-10-24,Haapsalu Metsakalmistu,"Üldosa, 33, 12-6",,,exact
+LEIDA,KASK,1921-10-19,1993-11-17,1993-11-17,Haapsalu Metsakalmistu,"Üldosa, 46, 5-12",,,exact
+LEIDA-ELISE,KASK,1928-12-23,2003-01-21,2003-01-25,Haapsalu Metsakalmistu,"Üldosa, 11, 2-8",,,name+death
+LEMBIT,KASK,1933-10-16,2008-09-30,2008-10-05,Haapsalu Metsakalmistu,"Üldosa, 33, 1-18",,,exact
+LINDA,KASK,1922-05-26,1988-05-24,1988-05-28,Haapsalu Metsakalmistu,"Üldosa, 18, 11-3",,,name+death
+LINDA,KASK,1927-07-12,1978-04-24,1978-04-20,Haapsalu Metsakalmistu,"Üldosa, 37, 2-2",,,exact
+LINDA-MEERI,KASK,1933-06-14,2015-03-06,2015-03-12,Haapsalu Metsakalmistu,"Üldosa, 33, 1-18",,,exact
+LISETTE,KASK,1909-12-25,2001-04-11,2001-04-14,Haapsalu Metsakalmistu,"Üldosa, 40, 3-9",,,name+years
+MARIA,KASK,1886-10-20,1961-04-12,1961-04-16,Haapsalu Metsakalmistu,"Üldosa, 6, 9-7",,,name+death
+PAUL,KASK,1935-01-13,1998-06-12,1998-06-17,Haapsalu Metsakalmistu,"Üldosa, 2, 6-11",,,exact
+RAIN,KASK,1961-01-29,2019-05-26,2019-05-30,Haapsalu Metsakalmistu,"Üldosa, 33, 1-18",,,exact
+SENTA,KASK,1918-10-07,2018-01-29,2018-02-03,Haapsalu Metsakalmistu,"Üldosa, 6, 6-14",,,exact
+SILVI,KASK,1938-06-01,2021-06-04,2021-07-08,Haapsalu Metsakalmistu,"Üldosa, 38, 11-4",,,exact
+SLAVIK,KASK,1952-08-10,1979-07-29,1979-08-01,Haapsalu Metsakalmistu,"Üldosa, 6, 6-14",,,exact
+TIIU,KASK,1955-07-12,2019-06-11,2019-06-18,Haapsalu Metsakalmistu,"Üldosa, 6, 8-19",,,exact
+TÕNU,KASK,1951-08-10,2012-02-20,2012-08-11,Haapsalu Metsakalmistu,"Üldosa, 33, 12-6",,,exact
+HANS,KASK,,1947-11-19,1947-11-25,Hageri kalmistu,"Hageri kalmistu, I-B, 6-9",,,name+death
+JAAK,KASK,1941-11-03,2023-09-14,2023-09-23,Hageri kalmistu,"Hageri kalmistu, III-E, 4-10",,,exact
+JOHANNES,KASK,1914-06-07,1970-11-29,1970-12-06,Hageri kalmistu,"Hageri kalmistu, II-F, 4-12",,,name+death
+LEIDA,KASK,1920-07-25,2012-06-29,2012-07-06,Hageri kalmistu,"Hageri kalmistu, II-F, 4-12",,,exact
+MARIE,KASK,1885-09-04,1973-01-24,1973-01-28,Hageri kalmistu,"Hageri kalmistu, I-B, 6-9",,,exact
+OLGA-HELENE,KASK,,1933-11-01,1933-11-08,Hageri kalmistu,"Hageri kalmistu, IV-B, 9-12",,,name+death
+OTTO-VILHELM,KASK,1871-01-04,1938-01-10,1938-01-16,Hageri kalmistu,"Hageri kalmistu, IV-B, 9-12",,,exact
+ROSALIA,KASK,1874-01-24,1961-12-13,1961-12-17,Hageri kalmistu,"Hageri kalmistu, IV-B, 9-12",,,exact
+ARNOLD,KASK,1927-06-08,1991-06-30,,Halliste kalmistu,"Üldosa, 3, 25",,,name+years
+EHA,KASK,1932-09-14,1933-11-15,,Halliste kalmistu,"Üldosa, 16/17, 105",,,name+years
+ELDUR,KASK,1944-10-07,2005-01-03,2005-06-23,Halliste kalmistu,"Üldosa, 16/17, 105",,,name+years
+ELMAR-FERDINAND,KASK,1921-09-30,2001-02-11,2001-02-17,Halliste kalmistu,"Üldosa, 4, 69",,,exact
+JAAN,KASK,1894-01-19,1981-07-02,,Halliste kalmistu,"Üldosa, 7/8, 113",,,exact
+JOHANNES,KASK,1892-12-10,1951-12-27,,Halliste kalmistu,"Üldosa, 16/17, 105",,,name+years
+KAIMO,KASK,1969-06-10,2007-04-25,2007-05-01,Halliste kalmistu,"Üldosa, 7/8, 59",,,name+death
+KARL,KASK,1887-08-30,1961-04-07,,Halliste kalmistu,"Üldosa, 9, 97",,,name+years
+CARL,KASK,1883-05-23,1941-12-27,,Halliste kalmistu,"Üldosa, 7/8, 83",,,dates
+KATHARINA,KASK,1898-09-29,1987-01-19,,Halliste kalmistu,"Üldosa, 7/8, 113",,,exact
+MARIE,KASK,1902-01-20,1989-08-19,,Halliste kalmistu,"Üldosa, 3, 100",,,name+years
+MÄRT,KASK,1940-03-16,2005-01-17,2005-01-22,Halliste kalmistu,"Üldosa, 7/8, 59",,,exact
+SELMA,KASK,1907-02-16,1997-03-20,1997-03-23,Halliste kalmistu,"Üldosa, 7/8, 59",,,name+death
+TEODOR,KASK,1920-01-19,1986-12-05,,Halliste kalmistu,"Üldosa, 23, 88",,,name+years
+VALDUR,KASK,1935-07-03,1936-08-12,,Halliste kalmistu,"Üldosa, 16/17, 105",,,name+years
+JOHANNES,KASK,1947-05-27,1997-07-04,1997-07-11,Harju-Madise Uus kalmistu,"Uus osa, I, 6-68A",,,exact
+VALVE,KASK,1939-11-25,2022-03-12,2022-03-17,Harju-Madise Uus kalmistu,"Uus osa, IV, 1-340",,,exact
+ANDREI,KASK,1873-09-01,1928-05-26,,Hellamaa kalmistu,"Uus osa, B2, 4-7",,,name+years
+EVGENIA,KASK,1919-07-25,1933-11-06,,Hellamaa kalmistu,"Uus osa, B3, 23-3",,,exact
+IRIINA,KASK,1903-01-18,1980-01-15,,Hellamaa kalmistu,"Uus osa, B2, 4-7",,,name+years
+IVAN,KASK,1883-04-28,1967-09-12,,Hellamaa kalmistu,"Uus osa, B3, 23-3",,,name+death
+MARIA,KASK,1875-12-31,1945-02-18,,Hellamaa kalmistu,"Uus osa, B2, 4-7",,,name+years
+MARIA,KASK,1889-07-05,1970-10-04,,Hellamaa kalmistu,"Uus osa, B3, 23-3",,,name+death
+MARIA,KASK,1891-09-30,1980-12-18,,Hellamaa kalmistu,"Uus osa, B3, 15-1",,,name+years
+PAUL,KASK,1911-12-08,1980-01-10,,Hellamaa kalmistu,"Uus osa, B2, 4-7",,,name+years
+RAISSA,KASK,1890-12-01,1960-06-01,,Hellamaa kalmistu,"Uus osa, B5, 3-8",,,name+years
+VASSILI,KASK,1884-09-23,1974-03-21,,Hellamaa kalmistu,"Uus osa, B3, 15-1",,,name+years
+VASSILI,KASK,1892-11-24,1959-04-13,,Hellamaa kalmistu,"Uus osa, B5, 3-8",,,name+years
+ARNOLD,KASK,1948-05-28,2026-04-02,2026-07-14,Helme kalmistu,"Uus osa, 10, 512",,,exact
+EDUARD-AUGUST,KASK,1912-09-13,2002-05-22,2002-05-24,Helme kalmistu,"Uus osa, 10, 274",,,dates
+ELISABETH-ELLA,KASK,1915-07-06,1984-01-05,,Helme kalmistu,"Uus osa, 10, 274",,,dates
+HELENE,KASK,1906-11-01,1988-08-03,1988-08-07,Helme kalmistu,"Uus osa, 10, 512",,,exact
+JAAN,KASK,1872-01-31,1961-09-16,1961-09-21,Helme kalmistu,"Uus osa, 10, 512",,,exact
+JOHANN,KASK,1898-03-04,1974-03-22,1974-03-29,Helme kalmistu,"Uus osa, 10, 512",,,dates
+SILVIJA-BENITA,KASK,1930-12-20,2005-12-14,,Helme kalmistu,"Uus osa, 10, 512",,,exact
+ANNA,KASK,1913-06-20,1984-04-12,,Iisaku kalmistu,"Üldosa, 4, 4-509",,,name+death
+EBERHARD,KASK,1915-12-12,1969-12-02,,Iisaku kalmistu,"Üldosa, 4, 4-509",,,name+years
+ELSE-LUKINE,KASK,1906-09-29,1982-10-15,,Iisaku kalmistu,"Üldosa, 4, 4-509",,,dates
+FILIBERT,KASK,1901-10-18,1989-08-17,,Iisaku kalmistu,"Üldosa, 4, 4-509",,,name+death
+JÜRI,KASK,1853-10-27,1939-02-21,,Iisaku kalmistu,"Üldosa, 4, 1-227",,,exact
+MIRALDA,KASK,1915-05-16,1942-06-10,,Iisaku kalmistu,"Üldosa, 4, 4-100",,,name+years
+AHTO,KASK,1950-09-26,2017-05-12,,Illuka kalmistu,"Üldosa, 8, 4-16",,,exact
+ALIINE,KASK,1910-02-17,2004-07-31,,Illuka kalmistu,"Üldosa, 5, 15-71",,,name+death
+ARTUR,KASK,1902-12-08,1984-10-20,,Illuka kalmistu,"Üldosa, 3, 9-45",,,name+years
+KARLA,KASK,1904-02-17,1977-07-30,,Illuka kalmistu,"Üldosa, 5, 15-71",,,exact
+AUGUST,KASK,1903-02-24,1953-07-20,,Jaagupi-Uduvere kalmistu,"Uduvere kalmistu, 11, 7-5",,,name+years
+EDUARD,KASK,1948-11-18,2022-04-22,2022-04-28,Jaagupi-Uduvere kalmistu,"Uduvere kalmistu, 2, 2-7",,,exact
+HEINO,KASK,1933-11-22,1962-02-10,1962-02-18,Jaagupi-Uduvere kalmistu,"Uduvere kalmistu, 11, 9-2",,,exact
+SALME,KASK,1930-03-02,2015-01-06,2015-05-30,Jaagupi-Uduvere kalmistu,"Uduvere kalmistu, 11, 9-2",,,exact
+ELLEN-KADI,KASK,1932-08-10,2020-07-29,2021-07-25,Järva-Jaani III kalmistu (Metsakalmistu),"Järva-Jaani III kalmistu, B, 82",,,exact
+HARALD,KASK,1911-01-12,1966-07-08,1966-07-13,Järva-Jaani III kalmistu (Metsakalmistu),"Järva-Jaani III kalmistu, A, 152",,,name+death
+KOIDULA,KASK,1928-08-26,2011-03-14,2011-05-07,Järva-Jaani III kalmistu (Metsakalmistu),"Järva-Jaani III kalmistu, A, 152",,,exact
+KARL,KASK,1909-07-31,1932-11-14,1932-11-20,Järva-Jaani II kalmistu (Tornialuse),"Järva-Jaani II kalmistu, Järva-Jaani II kalmistu, 101",,,name+death
+ANTS,KASK,1937-12-16,2007-04-24,2007-09-09,Järva-Jaani I kalmistu,"Järva-Jaani I kalmistu, D, 181",,,exact
+HANS,KASK,1875-01-25,1942-08-29,1942-09-04,Järva-Jaani I kalmistu,"Järva-Jaani I kalmistu, F, 106",,,name+death
+JOHANNES,KASK,1884-08-28,1958-09-04,1958-09-10,Järva-Jaani I kalmistu,"Järva-Jaani I kalmistu, C, 170",,,name+death
+JOHANNES,KASK,,1949-08-18,1949-08-23,Järva-Jaani I kalmistu,"Järva-Jaani I kalmistu, F, 106",,,name+death
+LINDA,KASK,1897-11-14,1962-07-18,1962-07-22,Järva-Jaani I kalmistu,"Järva-Jaani I kalmistu, D, 181",,,name+years
+MARIE,KASK,1890-10-27,1978-11-25,1978-12-01,Järva-Jaani I kalmistu,"Järva-Jaani I kalmistu, C, 170",,,name+death
+MIINA,KASK,1881-01-12,1961-03-01,1961-03-05,Järva-Jaani I kalmistu,"Järva-Jaani I kalmistu, F, 106",,,name+death
+RUDOLF,KASK,1892-03-01,1978-07-26,1978-07-30,Järva-Jaani I kalmistu,"Järva-Jaani I kalmistu, D, 181",,,exact
+ALIDE,KASK,1902-09-04,1990-05-17,1990-05-23,Jõelähtme kalmistu,"Üldosa, 3A, 420",,,exact
+EVALD-ROMAN,KASK,1914-01-18,1942-08-03,,Jõelähtme kalmistu,"Üldosa, 1A, 721",,,exact
+KARL,KASK,1890-07-07,1964-04-18,1964-04-26,Jõelähtme kalmistu,"Üldosa, 3A, 420",,,exact
+MIHKEL,KASK,1934-07-03,2020-10-17,2020-10-24,Jõelähtme kalmistu,"Üldosa, 2A, 879",,,exact
+ANTS,KASK,1940-03-29,2026-09-20,,Jõhvi kalmistu,"Üldosa, II kvartal, 29-445",,,exact
+EEVA,KASK,1935-06-05,1997-12-16,1997-12-20,Jõhvi kalmistu,"Üldosa, II kvartal, 29-445",,,name+death
+ENDLA,KASK,1929-09-05,2011-06-09,2011-06-12,Jõhvi kalmistu,"Üldosa, X kvartal, 22-113",,,name+death
+ENDLA,KASK,1929-09-05,2011-06-09,,Jõhvi kalmistu,"Üldosa, X kvartal, 22-139",,,name+death
+ENNO,KASK,1928-05-04,2020-01-02,2020-01-06,Jõhvi kalmistu,"Üldosa, I kvartal, 11-237",,,name+death
+IRINA,KASK,1960-10-03,2022-03-08,,Jõhvi kalmistu,"Üldosa, Kolumbaarium, 3-33",,,name+death
+KOIDULA,KASK,1933-06-23,2025-10-14,2025-10-17,Jõhvi kalmistu,"Üldosa, I kvartal, 11-237",,,name+death
+MAIMU,KASK,1926-01-26,2011-02-03,2011-02-07,Jõhvi kalmistu,"Üldosa, X kvartal, 12-171",,,name+death
+MATI,KASK,1954-04-19,2023-12-31,2024-12-05,Jõhvi kalmistu,"Üldosa, X kvartal, 22-139",,,name+death
+ÜLO,KASK,1945-05-18,2006-09-24,2006-09-28,Jõhvi kalmistu,"Üldosa, II kvartal, 1-14",,,name+death
+URVE,KASK,1937-06-15,2005-08-27,2005-08-31,Jõhvi kalmistu,"Üldosa, IX kvartal, 5-135",,,name+death
+ALMA,KASK,1913-11-14,1997-08-31,,Jõõpre kalmistu,"Üldosa, II, 8-63",,,exact
+EINO,KASK,1934-10-06,2006-07-13,2006-07-15,Jüri kalmistu,"Vana osa, Vasak 7 , 17-8",,,exact
+EINU,KASK,1935-03-11,2013-02-13,2013-08-24,Jüri kalmistu,"Uus osa, Vasak 1A, 5-6",,,exact
+JOHANNES,KASK,1901-10-25,1981-08-09,1981-08-10,Jüri kalmistu,"Vana osa, Vasak W3, 4-8",,,exact
+MARE,KASK,1941-06-26,2003-03-14,2003-06-28,Jüri kalmistu,"Uus osa, Parem 1 uus, 1-24",,,exact
+MEA,KASK,1942-01-22,2024-03-09,2024-04-06,Jüri kalmistu,"Vana osa, Vasak 7 , 13A-10",,,exact
+META,KASK,1917-06-06,2011-03-17,2011-06-05,Jüri kalmistu,"Vana osa, Vasak W3, 4-8",,,exact
+VELLO-REIN,KASK,1937-02-14,1999-10-11,1999-10-15,Jüri kalmistu,"Uus osa, Parem 1 uus, 1-24",,,exact
+AUGUST,KASK,1926-08-02,1983-05-09,,Juuru kalmistu,"Üldosa, VII b, 13-6",,,name+death
+ENDLA,KASK,1931-03-26,2015-11-12,2017-09-11,Juuru kalmistu,"Üldosa, II b, 3-4",,,exact
+VIRVE,KASK,1934-06-11,2019-04-08,,Juuru kalmistu,"Üldosa, IV b, 11-3",,,exact
+ENDEL,KASK,1943-04-23,2005-02-28,,Kaarepere kalmistu,"Vana, Koguduse, 1-13",,,exact
+ALIDE,KASK,1891-11-24,1968-03-16,,Kärdla kalmistu,"Üldosa, I, 37",,,name+years
+ARVID,KASK,1930-07-15,2019-04-29,2019-05-04,Kärdla kalmistu,"Üldosa, O, 29",,,exact
+ELISABETH,KASK,1904-05-02,1984-07-18,,Kärdla kalmistu,"Üldosa, I, 37",,,exact
+EMILIE,KASK,1895-10-15,1979-03-29,,Kärdla kalmistu,"Üldosa, I, 37",,,name+years
+HELGA,KASK,1930-01-26,2001-12-26,2002-01-03,Kärdla kalmistu,"Üldosa, B, 156",,,exact
+JOHANNES,KASK,1854-11-02,1928-10-31,,Kärdla kalmistu,"Üldosa, I, 37",,,name+years
+JULJUS,KASK,1891-03-07,1974-12-14,,Kärdla kalmistu,"Üldosa, B, 157",,,dates
+JUULI,KASK,1893-06-06,1981-01-16,,Kärdla kalmistu,"Üldosa, B, 157",,,exact
+LEENA,KASK,1863-12-28,1942-06-25,,Kärdla kalmistu,"Üldosa, I, 37",,,name+years
+VILMAR,KASK,1927-01-14,2009-03-22,2009-03-27,Kärdla kalmistu,"Üldosa, B, 156",,,exact
+MARIE,KASK,1882-10-20,1975-01-17,,Karjaküla kalmistu,"Üldosa, Teine, 22-8",,,name+death
+ROBERT-FERDINAND,KASK,1926-02-15,1985-10-25,1985-10-25,Karjaküla kalmistu,"Üldosa, Esimene, 5-18",,,dates
+ARNOLD,KASK,1929-10-30,1990-01-03,1990-01-10,Kehtna kalmistu,"Üldosa, III kvartal, 24-1",,,exact
+HELVI,KASK,1926-06-26,2006-10-07,2006-10-11,Kehtna kalmistu,"Üldosa, III kvartal, 24-1",,,exact
+KLAVDIA,KASK,1925-06-15,2018-02-06,,Kikevere kalmistu,"üldosa, III, 106",,,name+years
+JÜRI,KASK,1881-04-08,1952-12-30,,Kirbla kalmistu,"Kirbla, VI, 8-12",,,name+years
+MIINA,KASK,1862-04-06,1937-04-30,,Kirbla kalmistu,"Kirbla, V, 2-3",,,name+years
+AARE,KASK,1939-04-01,2002-11-27,,Kodavere kalmistu,"Uus osa, III kvartal, 1195",,,exact
+AKSEL-ERICH,KASK,1930-09-04,2005-09-25,,Kodavere kalmistu,"Uus osa, III kvartal, 1195",,,exact
+ALIIDE,KASK,1895-01-18,1977-08-29,,Kodavere kalmistu,"Vana osa, II kvartal, 627",,,exact
+ALMA,KASK,1905-09-16,1982-12-03,,Kodavere kalmistu,"Vana osa, II kvartal, 1056",,,name+years
+ALMA,KASK,1907-02-07,1997-08-08,,Kodavere kalmistu,"Vana osa, I kvartal, 6",,,exact
+ANTS,KASK,1936-11-04,2021-05-07,,Kodavere kalmistu,"Vana osa, II kvartal, 602",,,exact
+AUGUST,KASK,1925-07-05,1989-12-10,,Kodavere kalmistu,"Uus osa, III kvartal, 1195",,,name+years
+AUGUST,KASK,1881-01-18,1947-02-11,,Kodavere kalmistu,"Uus osa, III kvartal, 1448",,,name+years
+ELLY,KASK,1926-08-31,2021-09-25,,Kodavere kalmistu,"Vana osa, II kvartal, 627",,,exact
+ENDEL,KASK,1934-08-05,2010-12-02,,Kodavere kalmistu,"Vana osa, II kvartal, 1002",,,exact
+HILLE,KASK,1942-06-23,2020-03-02,,Kodavere kalmistu,"Vana osa, II kvartal, 602",,,exact
+JAAK,KASK,1945-07-04,2003-11-16,,Kodavere kalmistu,"Vana osa, II kvartal, 861",,,exact
+KARL,KASK,1903-07-06,1962-05-15,,Kodavere kalmistu,"Vana osa, II kvartal, 983",,,dates
+LIKY,KASK,1932-01-30,2001-10-18,,Kodavere kalmistu,"Uus osa, III kvartal, 1195",,,exact
+LINDA,KASK,1929-03-17,2009-06-10,,Kodavere kalmistu,"Uus osa, III kvartal, 1448",,,exact
+LOVIISA,KASK,1905-01-14,1976-06-24,,Kodavere kalmistu,"Uus osa, IV kvartal, 1785",,,name+years
+LOVIISA,KASK,1880-04-09,1972-07-20,,Kodavere kalmistu,"Vana osa, I kvartal, 6",,,name+years
+OSVALD,KASK,1902-04-20,1972-09-18,,Kodavere kalmistu,"Vana osa, I kvartal, 6",,,name+years
+OTTO,KASK,1930-02-23,1930-02-24,,Kodavere kalmistu,"Uus osa, IV kvartal, 1809",,,exact
+RUDOLF-JOHANNES,KASK,1901-07-20,1974-11-29,,Kodavere kalmistu,"Vana osa, II kvartal, 1087",,,dates
+THERESE,KASK,1904-01-31,1989-04-20,,Kodavere kalmistu,"Vana osa, II kvartal, 1087",,,exact
+TOOMAS,KASK,1951-12-31,2019-01-10,,Kodavere kalmistu,"Uus osa, III kvartal, 1448",,,exact
+ALISE,KASK,1925-09-17,1985-08-25,,Koeru Uus Kalmistu,"Koeru Uus Kalmistu, B, 579",,,name+death
+ELISABETH,KASK,1891-08-21,1956-04-04,,Koeru Uus Kalmistu,"Koeru Uus Kalmistu, C, 267",,,name+years
+ESTER,KASK,1929-09-04,2017-04-14,,Koeru Uus Kalmistu,"Koeru Uus Kalmistu, B, 257",,,exact
+HILDA,KASK,1915-05-25,2002-09-19,2002-09-23,Koeru Uus Kalmistu,"Koeru Uus Kalmistu, D, 231",,,name+death
+IDA,KASK,1895-03-09,1990-12-09,,Koeru Uus Kalmistu,"Koeru Uus Kalmistu, B, 80",,,name+death
+LAINE,KASK,1929-05-24,1996-09-17,1996-09-20,Koeru Uus Kalmistu,"Koeru Uus Kalmistu, D, 177",,,name+death
+MARTIN,KASK,1983-01-08,1989-08-27,1989-09-02,Kohila kalmistu,"Kohila kalmistu, I-B, 5-4",,,exact
+SIRJE,KASK,1957-11-03,2025-01-31,2025-06-14,Kohila kalmistu,"Kohila kalmistu, I-B, 5-4",,,exact
+EDUARD,KASK,1888-10-11,1961-03-03,1961-03-14,Kolga-Jaani kalmistu,"Vana, 22, 5-91",,,exact
+GEORG,KASK,1923-04-21,1978-08-26,1978-09-02,Kolga-Jaani kalmistu,"Vana, 22, 5-94",,,name+death
+LINDA,KASK,1923-12-23,2014-05-05,2014-05-10,Kolga-Jaani kalmistu,"Vana, 22, 5-94",,,exact
+OTTO,KASK,1916-03-27,1974-07-21,1974-07-25,Kolga-Jaani kalmistu,"Vana, 22, 5-96",,,name+death
+RIHO,KASK,1951-11-28,2022-07-09,2022-09-04,Kolga-Jaani kalmistu,"Vana, 9, 2-10",,,name+death
+AIME,KASK,1942-05-10,2018-03-26,2018-03-31,Korvi kalmistu,"Vana osa, 2. kvartal, 9-4a",,,exact
+ALEKSANDER,KASK,1927-10-04,2000-11-05,2000-11-11,Korvi kalmistu,"Vana osa, 1. kvartal, 8-15",,,exact
+ALLAN,KASK,1962-10-01,2023-11-10,2023-11-28,Korvi kalmistu,"Vana osa, 2. kvartal, 3-13",,,exact
+ANDRUS,KASK,1963-05-11,2023-07-21,2023-08-29,Korvi kalmistu,"Vana osa, 2. kvartal, 11-1a",,,exact
+ELENA,KASK,1923-12-13,2001-04-11,2001-04-14,Korvi kalmistu,"Vana osa, 2. kvartal, 6-17",,,exact
+ERIKA,KASK,1927-12-10,2012-11-26,2012-12-15,Korvi kalmistu,"Vana osa, 1. kvartal, 8-15",,,exact
+HELGA,KASK,1933-10-17,2011-01-05,2011-01-09,Korvi kalmistu,"Vana osa, 2. kvartal, 13-14/15",,,exact
+HERBERT,KASK,1923-07-19,2011-04-04,2011-08-20,Korvi kalmistu,"Vana osa, 2. kvartal, 6-17",,,exact
+ILME-AUGUSTE,KASK,1928-08-03,2002-04-10,2002-04-13,Korvi kalmistu,"Vana osa, 2. kvartal, 20-8",,,dates
+IMRE,KASK,1976-05-15,2014-12-02,2015-05-15,Korvi kalmistu,"Vana osa, 2. kvartal, 10-19",,,exact
+JOHANNES,KASK,1886-03-27,1959-05-18,1959-05-24,Korvi kalmistu,"Vana osa, 2. kvartal, 9-7",,,name+burial
+LUDVIG,KASK,1922-06-22,1991-10-20,1991-10-25,Korvi kalmistu,"Vana osa, 2. kvartal, 13-14/15",,,name+burial
+MAIMO,KASK,1919-09-01,2004-08-07,2004-09-04,Korvi kalmistu,"Vana osa, 2. kvartal, 9-7",,,exact
+MARIE,KASK,1890-02-03,1963-02-19,1963-03-03,Korvi kalmistu,"Vana osa, 2. kvartal, 9-7",,,name+burial
+MEELIS,KASK,1956-11-19,2003-02-28,2003-03-05,Korvi kalmistu,"Vana osa, 2. kvartal, 10-19",,,exact
+VALENTIN,KASK,1919-10-20,1996-04-14,1996-04-19,Korvi kalmistu,"Vana osa, 2. kvartal, 13-14/15",,,name+burial
+VLADIMIR,KASK,1916-04-29,1983-04-27,1983-05-03,Korvi kalmistu,"Vana osa, 2. kvartal, 13-14/15",,,name+burial
+ADELE,KASK,1909-10-11,2002-07-09,2002-07-12,Kose kalmistu,"Vana osa, V, 7-12",,,name+years
+JUHAN,KASK,1940-05-09,1981-06-05,1981-06-11,Kose kalmistu,"Vana osa, XI, 8-11",,,exact
+KALLU,KASK,1938-07-07,2014-12-18,2014-12-22,Kose kalmistu,"Vana osa, V, 7-12",,,exact
+LEENA,KASK,,1956-06-07,1956-06-10,Kose kalmistu,"Vana osa, V, 6-8",,,name+death
+MARKO,KASK,1983-08-07,1983-11-18,1983-11-24,Kose kalmistu,"Vana osa, XI, 13-8",,,exact
+MEETA,KASK,1936-03-16,2010-11-27,2011-05-07,Kose kalmistu,"Uus osa, XVII, 10-1",,,exact
+NIKOLAI,KASK,1908-11-23,1989-10-07,1989-10-12,Kose kalmistu,"Vana osa, V, 7-12",,,name+years
+RUDOLF,KASK,,1956-06-24,1956-07-08,Kose kalmistu,"Vana osa, V, 6-8",,,name+death
+UUDO,KASK,1936-11-08,1936-11-13,,Kose kalmistu,"Vana osa, V, 7-12",,,name+years
+VALDU,KASK,1939-02-27,1990-07-07,1990-07-13,Kose kalmistu,"Vana osa, II, 2-4",,,exact
+VELLO,KASK,1935-10-26,1935-11-07,,Kose kalmistu,"Vana osa, V, 7-12",,,name+years
+HERBERT,KASK,1926-05-22,1976-07-10,,Kunda Vana kalmistu,"Üldosa, A3, 191",,,name+years
+AIVAR,KASK,1959-03-13,1995-04-17,,Laatre II kalmistu,"Üldosa, V kvartal, 4-14",,,name+birth
+URMAS,KASK,1939-12-05,2005-09-01,2005-09-08,Laitse kalmistu,"Üldosa, Esimene, 6-8",,,exact
+ALIIDE,KASK,1907-01-07,1965-07-20,,Laiuse kalmistu,"Üldosa, A-2, 623",,,exact
+AMANDA,KASK,1908-09-07,1982-08-08,,Laiuse kalmistu,"Üldosa, A-2, 601",,,exact
+ANNA,KASK,,1953-08-10,,Laiuse kalmistu,"Üldosa, A-1, 89",,,name+death
+ARVI,KASK,1941-07-21,2012-08-16,,Laiuse kalmistu,"Üldosa, A-1, 60",,,exact
+ARVO,KASK,1909-05-14,1989-06-07,,Laiuse kalmistu,"Üldosa, A-1, 60",,,exact
+AUGUST,KASK,1910-10-30,1981-01-22,,Laiuse kalmistu,"Üldosa, A-1, 86",,,name+years
+AUGUST,KASK,1893-12-16,1964-04-09,,Laiuse kalmistu,"Üldosa, A-3, 454",,,name+years
+HUGO,KASK,1930-06-23,2016-02-07,2016-04-10,Laiuse kalmistu,"Üldosa, A-2, 529",,,exact
+JAAN,KASK,,1956-10-27,,Laiuse kalmistu,"Üldosa, A-1, 89",,,name+death
+JUHAN,KASK,,1926-10-07,,Laiuse kalmistu,"Üldosa, A-2, 95",,,name+death
+JUTA,KASK,1937-02-21,1937-10-18,,Laiuse kalmistu,"Üldosa, A-2, 153",,,name+birth
+KÜLLI,KASK,1942-03-01,2015-07-11,2015-07-26,Laiuse kalmistu,"Üldosa, A-1, 60",,,exact
+LEILI,KASK,1934-09-04,2012-10-07,2013-09-28,Laiuse kalmistu,"Üldosa, A-3, 104",,,exact
+LINDA,KASK,1907-07-17,1976-01-03,,Laiuse kalmistu,"Üldosa, A-3, 454",,,name+years
+MEELI,KASK,1934-08-31,1975-09-18,,Laiuse kalmistu,"Üldosa, A-2, 529",,,exact
+SALME,KASK,1911-04-25,2001-05-18,,Laiuse kalmistu,"Üldosa, A-1, 60",,,exact
+ÜLLE,KASK,1959-06-05,2024-01-23,2024-08-25,Laiuse kalmistu,"Üldosa, A-2, 143",,,exact
+EHA,KASK,1943-05-10,2013-08-16,2013-08-30,Lelle kalmistu,"Üldosa, II kvartal, 1-9",,,exact
+PAULINE,KASK,1886-08-08,1961-02-01,,Lihula Uus kalmistu,"I, II, 3-15",,,name+birth
+AHTI,KASK,1938-06-27,1999-08-03,1999-08-06,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-2, 14-2",,,dates
+AINO,KASK,1907-01-14,1997-06-24,1997-06-28,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-2, 21-4",,,exact
+AINO,KASK,1931-06-17,2012-12-25,2013-05-10,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-3, 6-3",,,name+death
+ALMA-HELENE,KASK,1905-12-26,1940-05-27,,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-3, 21-10",,,name+years
+ANDRES,KASK,,1945-06-29,,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-1, 39-3",,,name+death
+ANDRES,KASK,1855-02-18,1931-09-02,,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-1, 13-3",,,name+years
+ANDRES,KASK,1889-01-20,1949-04-23,,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-2, 14-5",,,name+years
+ANNA,KASK,1918-02-12,1999-02-06,1999-02-12,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-2, 21-5",,,name+death
+ARALD,KASK,1932-01-04,1999-04-16,1999-04-21,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-3, 10-5",,,exact
+ARNO,KASK,1935-06-26,2010-02-09,2010-08-21,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-3, 21-10",,,exact
+ARNOLD-VOLDEMAR,KASK,1915-07-03,2001-07-24,2001-07-26,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-4, 30-3",,,exact
+ARVID,KASK,1914-01-01,2008-01-12,2008-11-30,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-3, 13-7",,,exact
+ARVO,KASK,1941-10-17,1945-01-28,,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-4, 1-1",,,name+birth
+AUGUST,KASK,1899-01-16,1960-05-17,1960-05-22,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-1, 39-3",,,dates
+BERNHARD,KASK,1902-12-29,1992-03-11,1992-03-15,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-1, 13-3",,,dates
+ELLI,KASK,1939-01-02,1940-01-16,,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-3, 21-10",,,name+years
+ELMAR,KASK,1910-01-06,1951-03-17,,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-2, 21-5",,,name+years
+ELMEEDA-JOHANNA,KASK,1923-06-09,2009-01-07,2009-01-10,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-4, 30-3",,,dates
+EMILIE,KASK,1914-07-06,1942-11-09,,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-3, 21-10",,,name+years
+ERICH,KASK,1933-01-28,1981-06-28,1981-07-02,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-2, 11-1",,,dates
+ERICH,KASK,1928-04-02,1987-04-29,1987-05-03,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-3, 23-2",,,dates
+ERNA,KASK,1938-04-25,1979-01-03,1979-01-06,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-2, 11-1",,,dates
+HELMI,KASK,1924-11-14,2015-12-12,2016-05-07,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-2, 32-1",,,exact
+HELVI,KASK,1933-09-15,2007-01-21,2007-02-02,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-4, 20-4",,,exact
+HENDRIK,KASK,1933-04-09,2003-06-27,2003-07-05,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-2, 13-5",,,exact
+JAAN,KASK,1885-04-28,1949-02-21,,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-2, 21-4",,,exact
+JAAN,KASK,1928-07-19,2001-03-09,2001-05-26,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-1, 29-2",,,dates
+JAKOB,KASK,1891-05-10,1946-06-27,,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-1, 40-4",,,name+years
+JOHANNES-HENRICH,KASK,1925-12-02,1975-12-27,1976-01-04,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-5, 5-2",,,dates
+JOHANNES,KASK,1908-06-13,1963-05-01,1963-05-05,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-2, 14-2",,,dates
+KADRI,KASK,1873-06-03,1942-04-18,,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-1, 39-3",,,name+birth
+KAI,KASK,1880-10-13,1962-09-01,1962-09-06,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-4, 1-1",,,dates
+KALJU,KASK,1942-02-23,1944-03-26,,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-3, 21-10",,,name+years
+LAINE,KASK,1928-05-25,2008-11-27,2008-11-30,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-3, 13-7",,,exact
+LEENA,KASK,1890-08-30,1951-05-06,,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-4, 13-4",,,name+years
+LEMBIT,KASK,1938-01-10,1988-09-28,1988-10-02,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-5, 11-3",,,dates
+LINDA,KASK,1929-10-26,2006-10-21,2006-10-27,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-4, 24-4",,,exact
+LOVIISA,KASK,1897-08-20,1977-03-06,1977-03-12,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-1, 13-3",,,dates
+MADIS,KASK,1867-06-26,1938-02-28,,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-1, 39-2",,,name+years
+MARIE,KASK,1871-11-26,1926-07-14,,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-2, 14-2",,,name+years
+MEINHARD,KASK,1927-12-01,1988-10-04,1988-10-08,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-2, 31-5",,,dates
+MIHKEL,KASK,,1949-06-04,,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-4, 1-1",,,name+death
+OLGA,KASK,1915-10-15,1980-05-11,1980-05-16,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-2, 37-1",,,name+death
+OLGA-ALEKSANDRA,KASK,1912-11-15,1980-10-10,1980-10-16,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-2, 14-2",,,dates
+RICHARD,KASK,1924-07-29,2016-04-16,2016-05-07,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-2, 32-1",,,exact
+SALME-ADEELE,KASK,1918-12-30,2006-01-25,2006-01-28,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-4, 21-1",,,dates
+VELLO,KASK,1951-07-21,2008-04-24,2008-05-08,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-2, 31-5",,,dates
+VILMA,KASK,1935-04-05,2013-04-15,2013-05-12,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-1, 22-3",,,name+death
+VILMA,KASK,1943-05-07,1945-05-17,1945-05-20,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-4, 21-1",,,dates
+MELANIE,KASK,1891-10-24,1963-01-23,1963-01-31,Loksa kalmistu,"Üldosa, Parem I, 16-11",,,exact
+PRIIDU,KASK,1881-11-25,1947-12-05,1947-12-12,Loksa kalmistu,"Üldosa, Parem I, 16-11",,,exact
+VILLEM,KASK,1936-10-21,1968-05-20,1968-05-23,Loksa kalmistu,"Üldosa, Vasak IV, 7-1",,,exact
+ADELE,KASK,1905-01-20,1988-01-24,,Lüganuse kalmistu,"Üldosa, V A, 8/210",,,exact
+ALEKSANDER,KASK,1927-08-28,2000-03-23,2000-03-26,Lüganuse kalmistu,"Üldosa, I A, 22/468",,,exact
+ANNE,KASK,1943-12-25,2015-06-25,2015-07-02,Lüganuse kalmistu,"Üldosa, II A, 22/360",,,exact
+ASTRA,KASK,1923-05-30,2013-05-20,2013-05-23,Lüganuse kalmistu,"Üldosa, III D, 4/40",,,exact
+AUGUST,KASK,1915-07-12,1997-08-04,1997-08-07,Lüganuse kalmistu,"Üldosa, ?, 40",,,name+death
+DANIEL,KASK,1889-11-06,1951-03-23,,Lüganuse kalmistu,"Üldosa, III A, 11/52",,,name+years
+EDUARD,KASK,1906-03-17,1988-01-23,,Lüganuse kalmistu,"Üldosa, V A, 8/210",,,exact
+ENDEL,KASK,1935-08-14,2011-01-05,2011-01-08,Lüganuse kalmistu,"Üldosa, II C, 102",,,name+death
+EVALD,KASK,1921-10-12,1980-12-02,,Lüganuse kalmistu,"Üldosa, IV C, 19/263",,,exact
+HARRI,KASK,1956-11-06,1977-02-04,,Lüganuse kalmistu,"Üldosa, III D, 4/40",,,exact
+HEINAR,KASK,1958-08-27,1989-04-23,1989-04-28,Lüganuse kalmistu,"Üldosa, V A, 14/358",,,exact
+HILLAR,KASK,1937-02-04,1995-11-13,1995-11-17,Lüganuse kalmistu,"Üldosa, IV B, 2",,,exact
+JAAN,KASK,1966-06-23,1985-08-21,1985-08-27,Lüganuse kalmistu,"Üldosa, III D, 4/40",,,name+birth
+JAKOV-ALEKSANDER,KASK,1928-03-02,1991-02-27,1991-03-06,Lüganuse kalmistu,"Üldosa, V A, 14/358",,,dates
+JAKOB,KASK,1891-08-06,1972-02-11,,Lüganuse kalmistu,"Üldosa, IV C, 19/263",,,name+years
+JUULI,KASK,1886-04-13,1958-12-15,,Lüganuse kalmistu,"Üldosa, III A, 11/52",,,name+death
+KALJO,KASK,1958-12-30,2020-01-06,2020-01-11,Lüganuse kalmistu,"Üldosa, III D, 4/40",,,exact
+LAINE,KASK,1960-10-03,2001-05-21,2001-06-03,Lüganuse kalmistu,"Üldosa, III D, 4/40",,,name+birth
+LEENA,KASK,1895-02-01,1977-01-18,,Lüganuse kalmistu,"Üldosa, IV C, 19/263",,,name+years
+MAIMU-ELLEN,KASK,1923-04-09,2004-02-01,2004-02-04,Lüganuse kalmistu,"Üldosa, II B, 499",,,dates
+MARTA,KASK,1937-08-01,2021-04-16,2021-04-20,Lüganuse kalmistu,"Üldosa, V A, 12/319",,,exact
+MARTHA,KASK,1912-12-01,2001-12-14,2001-12-17,Lüganuse kalmistu,"Üldosa, I A, 22/468",,,exact
+MIHKEL,KASK,1940-09-06,2003-06-12,2004-06-12,Lüganuse kalmistu,"Üldosa, II A, 22/360",,,exact
+MIHKEL,KASK,1906-10-23,1973-01-21,,Lüganuse kalmistu,"Üldosa, III D, 4/40",,,exact
+MIKKEL,KASK,1950-03-31,2004-02-25,2004-02-28,Lüganuse kalmistu,"Üldosa, III D, 4/40",,,exact
+MIRALDA,KASK,1931-05-09,2008-04-21,2008-04-25,Lüganuse kalmistu,"Üldosa, I A, 25/546",,,exact
+PAULINE,KASK,,1953-10-15,,Lüganuse kalmistu,"Üldosa, I A, 22/468",,,name+death
+SELMA,KASK,1927-01-01,2001-09-13,2001-09-15,Lüganuse kalmistu,"Üldosa, V A, 14/358",,,exact
+UNO-RUDOLF,KASK,1926-05-28,2010-02-22,,Lüganuse kalmistu,"Üldosa, III A, 11/52",,,dates
+VAIKE,KASK,1931-05-13,2007-12-18,,Lüganuse kalmistu,"Üldosa, III A, 11/52",,,exact
+ALMA,KASK,1897-04-11,1998-07-04,,Mäetaguse kalmistu,"Uus osa, Sektor 14, 4",,,name+years
+BORISS,KASK,1963-07-19,1994-07-29,1994-08-02,Mäetaguse kalmistu,"Uus osa, Sektor 2, 24",,,exact
+FRIEDRICH,KASK,1894-08-05,1960-04-26,1960-05-01,Mäetaguse kalmistu,"Uus osa, Sektor 14, 4",,,name+death
+OLIVER,KASK,1993-08-15,2015-06-22,,Mäetaguse kalmistu,"Uus osa, Sektor 15, 3",,,exact
+VOLDEMAR,KASK,1897-10-05,1988-07-26,,Märjamaa kirikuaed,"Üldosa, I kvartal, 13",,,exact
+ALBERT,KASK,1922-04-20,1983-03-14,1983-03-20,Märjamaa Viilumäe kalmistu,"Uus osa, Uus aed, 3-51",,,name+death
+ALIIDE,KASK,1904-07-07,1993-07-07,,Märjamaa Viilumäe kalmistu,"Vana osa, III aed, 23-23",,,exact
+ARNOLD,KASK,1925-12-15,2007-06-22,2007-07-21,Märjamaa Viilumäe kalmistu,"Uus osa, Uus aed, _-_",,,name+death
+ASTA,KASK,1934-10-07,2016-02-11,,Märjamaa Viilumäe kalmistu,"Vana osa, III aed, 21-42",,,exact
+AUGUST,KASK,1903-10-16,1969-04-22,1969-04-30,Märjamaa Viilumäe kalmistu,"Uus osa, Uus aed, _-_",,,name+years
+EINO,KASK,1934-09-23,2020-10-02,2020-10-08,Märjamaa Viilumäe kalmistu,"Vana osa, III aed, 21-42",,,exact
+HELGA,KASK,1927-07-31,2015-01-01,2015-05-03,Märjamaa Viilumäe kalmistu,"Uus osa, Uus aed, _-_",,,name+death
+IDA,KASK,1903-12-24,1974-08-21,1974-08-24,Märjamaa Viilumäe kalmistu,"Uus osa, Uus aed, 7-43",,,name+death
+JAAN,KASK,1898-08-16,1970-05-05,1970-05-09,Märjamaa Viilumäe kalmistu,"Uus osa, Uus aed, 7-43",,,name+death
+LAINE,KASK,1933-04-23,2022-09-12,2022-10-22,Märjamaa Viilumäe kalmistu,"Vana osa, III aed, 20-26",,,exact
+UUNO,KASK,1942-04-08,2026-05-12,,Märjamaa Viilumäe kalmistu,"Vana osa, III aed, 20-28",,,exact
+MIHKEL,KASK,1860-02-03,1926-10-02,,Muhu kalmistu,"Liiva, A2, 7-14",,,name+years
+VASSILI,KASK,1896-12-31,1942-05-07,,Muhu kalmistu,"Liiva, A4, 02",,,exact
+EDUARD,KASK,,1945-09-10,,Nissi kalmistu,"Nissi kalmistu, V, 4-27",,,name+death
+HANS,KASK,1938-03-27,1999-09-04,,Nissi kalmistu,"Nissi kalmistu, IV, 3-15",,,name+years
+TANEL,KASK,1985-01-27,1987-05-08,,Nissi kalmistu,"Nissi kalmistu, V, 9-2",,,exact
+LEIDA,KASK,1927-04-10,1977-03-31,,Noarootsi kalmistu,"Noarootsi kalmistu, VI, 607",,,name+years
+IDA,KASK,1910-03-12,1997-06-27,1997-06-30,Nõo kalmistu,"Nõo kalmistu, 12, 69",,,exact
+JÜRI,KASK,1906-07-16,1978-01-28,1978-02-01,Nõo kalmistu,"Nõo kalmistu, 12, 69",,,exact
+JAAK,VAHEMÄE,1939-05-24,1953-04-03,1953-04-19,Ao kalmistu,"Üldosa, 1, 24-8",,,exact
+KARLA,VAHEMÄE,1937-08-01,1999-03-02,1999-05-22,Ao kalmistu,"Üldosa, 1, 24-8",,,exact
+HELENE,VAHEMÄE,1887-08-03,1965-02-13,1965-02-18,Järva-Jaani III kalmistu (Metsakalmistu),"Järva-Jaani III kalmistu, A, 47",,,name+death
+KOIDULA,VAHEMÄE,1921-02-08,1991-07-22,1991-07-27,Järva-Jaani I kalmistu,"Järva-Jaani I kalmistu, D, 2",,,exact
+REIN,VAHEMÄE,1920-10-17,1979-10-25,1979-11-04,Järva-Jaani I kalmistu,"Järva-Jaani I kalmistu, D, 2",,,exact
+ELMAR,VAHEMÄE,1928-07-13,1982-10-28,,Kastna kalmistu,"Kastna kalmistu, 4, 1-3",,,name+years
+ENDEL,VAHEMÄE,1961-02-23,2024-09-30,2024-10-05,Kastna kalmistu,"Kastna kalmistu, 5, 20-3",,,exact
+GUSTAV,VAHEMÄE,1924-06-04,1994-10-09,,Kastna kalmistu,"Kastna kalmistu, 5, 20-2",,,exact
+HEINO,VAHEMÄE,1955-12-10,2016-09-15,2016-09-20,Kastna kalmistu,"Kastna kalmistu, 6, 20-5",,,exact
+HELJU,VAHEMÄE,1927-06-05,1982-12-31,,Kastna kalmistu,"Kastna kalmistu, 4, 1-3",,,name+years
+LINDA,VAHEMÄE,1933-02-17,1997-05-21,,Kastna kalmistu,"Kastna kalmistu, 5, 20-2",,,exact
+AINO,VAHEMÄE,1940-12-29,2011-10-02,2011-10-16,Kose kalmistu,"Vana osa, XIV, 4-3",,,exact
+AUGUST,VAHEMÄE,1901-02-23,1936-02-26,,Kose kalmistu,"Vana osa, XIV, 23-12",,,name+birth
+HELENE,VAHEMÄE,1896-11-10,1977-04-07,1977-04-10,Kose kalmistu,"Vana osa, XIV, 4-3",,,exact
+JANEK,VAHEMÄE,1974-10-09,2018-06-17,,Kose kalmistu,"Vana osa, VI, 32-11",,,exact
+JOHANNES,VAHEMÄE,1896-12-21,1956-04-15,1956-04-22,Kose kalmistu,"Uus osa, XX, 3-1",,,name+death
+KALLE,VAHEMÄE,1936-03-08,2002-12-27,2002-12-30,Kose kalmistu,"Vana osa, XIV, 4-3",,,exact
+LEENA,VAHEMÄE,1896-08-21,1972-03-20,,Kose kalmistu,"Uus osa, XX, 3-1",,,name+years
+MATI,VAHEMÄE,1953-11-01,2017-10-10,2017-10-28,Kose kalmistu,"Vana osa, XI, 3-1",,,exact
+SALME,VAHEMÄE,1906-08-08,1988-02-22,1988-02-27,Kose kalmistu,"Vana osa, XIV, 23-12",,,name+death
+UNO,VAHEMÄE,1943-06-14,1981-07-09,1981-07-12,Kose kalmistu,"Vana osa, XI, 9-5",,,name+years
+VOLDEMAR,VAHEMÄE,1909-08-19,1959-09-03,1959-09-09,Kose kalmistu,"Vana osa, XIV, 4-3",,,exact
+MARTA,VAHEMÄE,1912-11-22,1994-04-28,1994-05-01,Lüganuse kalmistu,"Üldosa, II C, 2266",,,exact
+SILVI,VAHEMÄE,1916-02-08,2006-03-21,2006-03-25,Lüganuse kalmistu,"Üldosa, II C, 2266",,,exact
+KUSTA,VAHEMÄE,1908-01-19,1993-10-17,1993-10-22,Tallinna Liiva kalmistu,Hauaplatsi asukoht teadmata.,,,name+death
+AARNE,VAHEMÄE,1939-01-17,2017-09-30,,Tallinna Pärnamäe kalmistu,"U, U2, 9-12",,,exact
+EILAND,VAHEMÄE,1928-12-13,1967-01-13,1967-01-18,Tallinna Pärnamäe kalmistu,"PI, 5, C-93",,,exact
+KARIN,VAHEMÄE,1957-03-29,2018-09-11,,Tallinna Pärnamäe kalmistu,"PII, 29, B-445",,,exact
+LIIDIA,VAHEMÄE,1920-04-17,2009-02-07,2009-04-18,Tallinna Pärnamäe kalmistu,"M, 33, B-215",,,exact
+MART,VAHEMÄE,1912-12-09,1980-03-20,1980-03-26,Tallinna Pärnamäe kalmistu,"M, 33, B-215",,,name+death
+PRIIT,VAHEMÄE,1972-12-08,2023-06-21,,Tallinna Pärnamäe kalmistu,"M, 33, B-215",,,exact
+HELLE,VAHEMÄE,1942-01-24,2023-06-27,,Tallinna Rahumäe kalmistu,"V, LN 10, 9-15",,,exact
+OLGA,VAHEMÄE,1903-08-17,1985-07-11,1985-07-16,Tallinna Rahumäe kalmistu,"V, JV A, 14-12",,,name+burial
+VAHUR,VAHEMÄE,1951-06-11,1951-07-23,1951-07-27,Tallinna Siselinna kalmistu,Hauaplatsi asukoht teadmata.,,,name+burial
+EVALD,VAHEMÄE,1931-04-06,1993-02-28,1993-03-06,Tõstamaa kalmistu,"Tõstamaa kalmistu, 3, 7-4",,,exact
+JÜRI,VAHEMÄE,1887-10-18,1945-02-01,,Tõstamaa kalmistu,"Tõstamaa kalmistu, 3, 7-4",,,name+years
+JAKOB,VAHEMÄE,1870-07-15,1955-10-16,1955-10-23,Väike-Maarja Vana kalmistu,"Vana kalmistu, 2, 10-37",,,name+death
+HANS,MÄTTIK,1852-07-18,1936-09-01,,Alevi kalmistu,"Plokk 6, 67, 7",,,name+death
+INGRID,MÄTTIK,1928-07-28,1947-02-13,,Alevi kalmistu,"Plokk 8, 116, 18",,,name+birth
+JUHAN,MÄTTIK,1875-03-03,1953-11-11,1953-11-15,Alevi kalmistu,"Plokk 2, 24, 116",,,name+death
+MARIA,MÄTTIK,1888-07-22,1971-04-10,1971-04-15,Alevi kalmistu,"Plokk 2, 24, 116",,,name+death
+ANNA,MÄTTIK,,1947-04-23,1947-05-04,Jüri kalmistu,"Vana osa, Parem 5, 17-6",,,name+death
+ELISE,MÄTTIK,1905-02-10,1979-04-08,1979-04-12,Jüri kalmistu,"Vana osa, Parem 3, 13-5",,,exact
+HEINRICH,MÄTTIK,1902-01-19,1986-04-12,1986-04-20,Jüri kalmistu,"Vana osa, Parem 3, 13-5",,,dates
+JUHAN,MÄTTIK,1857-01-13,1937-10-19,1937-01-03,Jüri kalmistu,"Vana osa, Parem 5, 17-6",,,name+years
+MARIE-LUISE,MÄTTIK,1902-10-23,1982-03-24,1982-03-28,Jüri kalmistu,"Vana osa, Parem 5, 17-6",,,name+years
+RAUL,MÄTTIK,1933-04-09,1991-02-25,1991-03-05,Jüri kalmistu,"Vana osa, Parem 4, 8-7",,,name+years
+URVE,MÄTTIK,1940-01-24,1988-03-08,1988-03-15,Jüri kalmistu,"Vana osa, Parem 4, 8-7",,,name+years
+VILLEM,MÄTTIK,1898-08-02,1982-07-12,1982-07-16,Jüri kalmistu,"Vana osa, Parem 5, 17-6",,,name+years
+LEONID,MÄTTIK,1960-05-22,2022-12-18,2023-05-21,Kose kalmistu,"Vana osa, III, 7-11",,,exact
+VEERA,MÄTTIK,1932-12-15,1998-09-14,1998-09-18,Kose kalmistu,"Vana osa, III, 7-11",,,exact
+ALEKSANDER,MÄTTIK,1901-07-14,1958-07-11,,Laiuse kalmistu,"Üldosa, A-2, 196",,,name+years
+ELVI,MÄTTIK,1911-04-21,1996-10-21,,Laiuse kalmistu,"Üldosa, A-2, 204",,,exact
+KRISTI,MÄTTIK,1951-08-06,1997-06-06,,Laiuse kalmistu,"Üldosa, A-2, 298",,,exact
+REINO,MÄTTIK,1926-01-02,2015-05-15,2015-05-20,Laiuse kalmistu,"Üldosa, A-2, 13",,,exact
+UNO,MÄTTIK,1918-05-21,1964-07-31,,Laiuse kalmistu,"Üldosa, A-2, 298",,,name+birth
+KAAREL,MÄTTIK,1941-05-06,1981-03-24,1981-03-29,Märjamaa Viilumäe kalmistu,"Uus osa, Uus aed, 4-4",,,exact
+ANDREI,MÄTTIK,1902-07-10,1966-01-11,1966-01-16,Pärnu Metsakalmistu,"Üldosa, 6, 1-17",,,name+death
+ANN,MÄTTIK,1876-12-24,1963-04-13,1963-04-21,Põltsamaa Linna kalmistu,"Keskaed, Jagu 12, 3-2",,,exact
+ANNA,MÄTTIK,,1950-10-17,1950-10-22,Põltsamaa Linna kalmistu,"1925.aed, Jagu 1, 3-3",,,name+death
+ANNA-MARIE,MÄTTIK,1882-06-29,1958-12-16,1958-12-25,Põltsamaa Linna kalmistu,"Keskaed, Jagu 12, 3-2",,,exact
+ELMAR-JOHANNES,MÄTTIK,1916-10-05,1990-02-12,1990-02-15,Rannamõisa kalmistu,"Rannamõisa kalmistu, 3, 7-2",,,name+burial
+KARL,MÄTTIK,1886-10-08,1957-03-24,1957-03-31,Rannamõisa kalmistu,"Rannamõisa kalmistu, 3, 7-2",,,name+burial
+PAULINE,MÄTTIK,1895-09-12,1956-09-02,1956-09-06,Rannamõisa kalmistu,"Rannamõisa kalmistu, 3, 7-2",,,name+burial
+LINDA,MÄTTIK,1927-10-25,2022-12-02,,Sindi Uus kalmistu,"Sindi Uus kalmistu, 15, 1",,,exact
+AINO,MÄTTIK,1934-12-08,2003-10-27,,Tallinna Liiva kalmistu,"M, G, 33-31",,,exact
+HELDUR-KONDRAD,MÄTTIK,1931-03-12,1992-10-25,1992-10-29,Tallinna Liiva kalmistu,"M, G, 33-31",,,exact
+REIN,MÄTTIK,1939-07-04,2003-03-12,,Tallinna Liiva kalmistu,"Vi, N I, 10-11",,,exact
+ANNE,MÄTTIK,1948-09-19,2024-12-26,,Tallinna Metsakalmistu,"V, 6, 3530E",,,exact
+VIKTOR,MÄTTIK,1931-01-09,1998-12-03,1998-12-05,Tallinna Metsakalmistu,"V, 10, 4525",,,exact
+AARE,MÄTTIK,1955-07-06,2020-03-15,,Tallinna Pärnamäe kalmistu,"U, U6, 9-4",,,exact
+ELVIINE,MÄTTIK,1912-12-15,1992-12-18,1992-12-23,Tallinna Pärnamäe kalmistu,"K, 55, C-478",,,name+death
+HILDA,MÄTTIK,1920-05-09,1989-04-02,,Tallinna Pärnamäe kalmistu,"PIII, 24, B-47",,,name+death
+JÜRI,MÄTTIK,1906-10-28,1978-01-10,1978-01-14,Tallinna Pärnamäe kalmistu,"PIII, 24, B-47",,,name+death
+OLGA-ROSALIE,MÄTTIK,1912-10-12,1977-12-16,1977-12-18,Tallinna Pärnamäe kalmistu,"VI, 10/3, E-103",,,name+death
+REIN,MÄTTIK,1947-09-18,1998-03-11,1998-03-21,Tallinna Pärnamäe kalmistu,"U, U2, 5-9",,,exact
+RUDOLF,MÄTTIK,1909-05-08,1974-09-30,1974-10-03,Tallinna Pärnamäe kalmistu,"VI, 10/3, E-103",,,name+death
+RUTH,MÄTTIK,1956-01-15,2018-11-08,,Tallinna Pärnamäe kalmistu,"U, U6, 9-4",,,exact
+ENN,MÄTTIK,1954-03-13,2006-11-26,2006-12-23,Tallinna Rahumäe kalmistu,"V, PU BII, 8-1a",,,exact
+JAAN,MÄTTIK,1944-06-03,2003-11-16,,Tallinna Rahumäe kalmistu,"V, PA BI, 16-2",,,exact
+MARTA,MÄTTIK,1918-01-16,2000-08-27,2000-09-03,Tallinna Rahumäe kalmistu,"V, PA BI, 16-2",,,exact
+REINO,MÄTTIK,1931-09-02,1941-05-21,1941-05-24,Tallinna Rahumäe kalmistu,"V, PA BI, 16-2",,,name+burial
+ANNA,MÄTTIK,,1953-07-10,1953-07-13,Tallinna Siselinna kalmistu,"A, AN IV-1, 3E-1",,,name+burial
+MAGDALEENA,MÄTTIK,1901-04-25,1971-02-14,1971-02-20,Väike-Maarja Uus kalmistu,"Uus kalmistu, 2, 2-11",,,exact
+VELLO,MÄTTIK,1939-04-02,2006-07-16,2006-07-19,Vana-Pärnu kalmistu,"Üldosa, Kvartal 28, 6-2",,,exact
+ANNA-CHRISTINE,MÄTTIK,1873-02-28,1959-03-24,1959-03-28,Alevi kalmistu,Hauaplatsi asukoht teadmata.,,,dates
+HELENE,MÄTTIK,1900-08-16,1960-07-29,1960-08-02,Alevi kalmistu,Hauaplatsi asukoht teadmata.,,,name+death
+HELMI,MÄTTIK,1913-02-23,1992-10-20,1992-10-24,Alevi kalmistu,Hauaplatsi asukoht teadmata.,,,name+burial
+JOHAN,MÄTTIK,1900-12-18,1991-01-04,1991-01-12,Alevi kalmistu,Hauaplatsi asukoht teadmata.,,,name+burial
+JOHANN,MÄTTIK,1898-02-10,1984-12-10,1984-12-14,Alevi kalmistu,Hauaplatsi asukoht teadmata.,,,name+burial
+ANTS,MÄTTIK,1936-08-02,1987-10-08,1987-10-13,Jüri kalmistu,Hauaplatsi asukoht teadmata.,,,name+years
+LIISA,MÄTTIK,1911-03-05,1982-11-05,1982-11-10,Mihkli kalmistu,Hauaplatsi asukoht teadmata.,,,name+death
+ERICH,MÄTTIK,1914-01-24,1998-04-11,1998-04-17,Siimusti kalmistu,Hauaplatsi asukoht teadmata.,,,name+death
+ALMA,MÄTTIK,1904-08-13,1971-02-14,1971-02-18,Tarvastu kalmistu,Hauaplatsi asukoht teadmata.,,,exact
+ALBERT,MÄTTIK,1913-03-27,1986-05-08,1986-05-11,Vana-Pärnu kalmistu,Hauaplatsi asukoht teadmata.,,,name+burial
+HELMI,MÄTTIK,1913-01-28,1992-04-27,1992-04-28,Vana-Pärnu kalmistu,Hauaplatsi asukoht teadmata.,,,name+burial
+MIINA,MÄTTIK,1889-08-07,1973-12-23,1973-12-28,Vana-Pärnu kalmistu,Hauaplatsi asukoht teadmata.,,,dates
+ERIKA,PAASMA,1959-06-25,2016-12-03,2016-12-10,Hageri kalmistu,"Hageri kalmistu, III-H, 3-3",,,name+birth
+ÜLLAR,PAASMA,1961-06-30,1990-05-12,1990-05-17,Kõrgessaare kalmistu,"Üldosa, XVI kvartal, 12-7",,,name+death
+VAMBOLA,PAASMA,1924-05-03,1985-04-12,,Paide Sillaotsa kalmistu,"Üldosa, H, 366",,,exact
+LILLE,PAASMA,1935-06-07,2022-01-14,2022-01-22,Pärnu Metsakalmistu,"Üldosa, 16, 6-3",,,exact
+ÜLO,PAASMA,1938-05-12,2023-08-13,2023-09-02,Pärnu Metsakalmistu,"Üldosa, 16, 6-3",,,exact
+KALJU,PAASMA,1932-05-26,2008-02-23,2008-02-29,Rapla kalmistu,"Uus osa, XXXVII, 12",,,exact
+LEMBIT,PAASMA,1940-03-16,2012-03-07,2012-03-10,Rapla kalmistu,"Uus osa, XLI, 17",,,exact
+LINDA,PAASMA,1937-05-24,2014-08-05,2014-08-09,Rapla kalmistu,"Uus osa, XL, 10",,,exact
+NIINA,PAASMA,1957-02-13,2016-06-06,2016-06-10,Rapla kalmistu,"Uus osa, XLI, 49",,,exact
+TOOMAS,PAASMA,1959-04-05,2010-10-21,2010-10-27,Rapla kalmistu,"Uus osa, XL, 12",,,exact
+VAMBOLA,PAASMA,1937-11-10,2009-07-05,2009-07-10,Rapla kalmistu,"Uus osa, XL, 10",,,exact
+AINO,PAASMA,1920-03-13,2017-12-25,,Tallinna Liiva kalmistu,"M, G IU, 6-1",,,exact
+ARVO,PAASMA,1936-11-26,1997-04-05,1997-06-04,Tallinna Pärnamäe kalmistu,"U, U2, 1-16",,,exact
+KAIDI,PAASMA,1969-12-12,2021-05-07,2021-07-21,Vana-Pärnu kalmistu,"Üldosa, Kvartal 24, 20-12",,,exact
+ÕILME,PAASMA,1938-09-24,1998-05-13,1998-05-16,Siimusti kalmistu,Hauaplatsi asukoht teadmata.,,,exact
+ALEKSANDER,KADAK,1898-07-22,1946-04-06,1946-04-14,Aegviidu Vana kalmistu,"Üldosa, V, ?-?",,,name+death
+LINDA,KADAK,1901-02-09,1946-04-06,1946-04-14,Aegviidu Vana kalmistu,"Üldosa, V, ?-?",,,name+death
+EDUARD,KADAK,1909-08-28,1996-03-24,,Audru kalmistu,"Üldosa, 3, 298",,,exact
+HILDA,KADAK,1912-01-31,1997-08-04,,Audru kalmistu,"Üldosa, 3, 298",,,exact
+NIINA,KADAK,1939-04-15,2020-04-16,2020-07-25,Audru kalmistu,"Üldosa, 1, 88",,,exact
+VLADIMIR,KADAK,1933-09-18,2012-06-06,2012-06-10,Audru kalmistu,"Üldosa, 1, 88",,,exact
+MAIRE,KADAK,1946-08-14,2024-11-27,2024-12-15,Avinurme kalmistu,"Keskmine kalmistu, VI, 18-1",,,dates
+VAMBOLA,KADAK,1918-08-21,1986-12-11,1986-12-19,Avinurme kalmistu,"Keskmine kalmistu, VI, 18-1",,,dates
+ALMA,KADAK,1910-02-23,1997-09-14,,Elva kalmistu,"Vana kalmistu, Kvartal III, 8-12",,,exact
+ENDEL,KADAK,1928-09-07,2007-05-10,,Elva kalmistu,"Metsakalmistu, Kvartal C, 6-14",,,exact
+EMILIA,KADAK,1934-10-17,2000-09-15,,Häädemeeste EAÕ kalmistu,"lõunakvartal , XVII, 2, 13",,,name+death
+ALMA,KADAK,1907-12-27,1979-01-11,1979-01-14,Haapsalu Metsakalmistu,"Üldosa, 18, 8-1",,,name+years
+MARI,KADAK,1876-10-03,1968-03-13,1968-03-17,Haapsalu Metsakalmistu,"Üldosa, 18, 8-1",,,name+years
+HANS,KADAK,,1958-01-09,,Halliste kalmistu,"Üldosa, 12, 26",,,name+death
+HANS,KADAK,1913-05-26,1962-07-20,,Halliste kalmistu,"Üldosa, 16/17, 49",,,name+death
+HILDA,KADAK,1920-12-24,1993-09-27,,Halliste kalmistu,"Üldosa, 16/17, 49",,,name+birth
+JUHAN,KADAK,1914-11-28,1992-07-24,,Halliste kalmistu,"Üldosa, 16/17, 49",,,dates
+LEENA,KADAK,,1947-08-27,,Halliste kalmistu,"Üldosa, 16/17, 49",,,name+death
+HUGO,KADAK,1906-04-23,1977-07-04,,Harju-Madise Uus kalmistu,"Uus osa, II, 8-146",,,exact
+MARTA,KADAK,1908-05-03,1978-05-05,,Harju-Madise Uus kalmistu,"Uus osa, II, 8-146",,,exact
+ANTS,KADAK,1933-04-27,1992-04-27,1992-04-30,Helme kalmistu,"Uus osa, 5, 172",,,exact
+JAAN,KADAK,1869-10-24,1943-04-05,,Helme kalmistu,"Vana osa, 18, 16",,,exact
+ANNA,KADAK,1890-04-10,1977-04-14,,Jõgeva Mõisaküla kalmistu,"Üldosa, IV, 151",,,name+years
+LINDA,KADAK,1926-01-18,1996-02-19,1999-03-23,Jüri kalmistu,"Uus osa, Vasak 1, 1-29",,,name+death
+VELLO,KADAK,1939-09-17,1991-12-20,1991-12-27,Juuru kalmistu,"Üldosa, IX b, 11-2",,,name+years
+ANTO,KADAK,1952-07-05,2007-04-29,2007-05-03,Käru kalmistu,"Üldosa, V kvartal, 32",,,exact
+ALEKSANDER-VOLDEMAR,KADAK,1890-07-25,1967-01-13,,Koeru Uus Kalmistu,"Koeru Uus Kalmistu, B, 389",,,exact
+HELLMACHTA,KADAK,1905-11-05,1984-04-28,1984-05-04,Koeru Uus Kalmistu,"Koeru Uus Kalmistu, B, 161",,,exact
+JÜRI,KADAK,1938-11-28,1939-01-22,,Koeru Uus Kalmistu,"Koeru Uus Kalmistu, B, 161",,,exact
+KRISTJAN,KADAK,1878-03-30,1944-02-22,,Koeru Uus Kalmistu,"Koeru Uus Kalmistu, C, 66",,,name+years
+MARIE,KADAK,1864-02-24,1937-11-07,,Koeru Uus Kalmistu,"Koeru Uus Kalmistu, B, 389",,,name+death
+ÜLO,KADAK,1932-12-12,1972-05-08,,Koeru Uus Kalmistu,"Koeru Uus Kalmistu, C, 66",,,exact
+VALTER-LEONHARD,KADAK,1905-09-25,1983-06-30,1983-07-03,Koeru Uus Kalmistu,"Koeru Uus Kalmistu, B, 161",,,exact
+EDUARD,KADAK,1893-11-27,1970-04-13,1970-04-16,Kohila kalmistu,"Kohila kalmistu, I-C, 8-1",,,name+death
+EVE,KADAK,1945-10-17,1945-10-30,,Kohila kalmistu,"Kohila kalmistu, I-C, 8-1",,,name+years
+MARIE,KADAK,1898-08-10,1967-06-03,1967-06-08,Kohila kalmistu,"Kohila kalmistu, I-C, 8-1",,,exact
+VILLEM,KADAK,1880-10-16,1954-09-22,,Kunda Vana kalmistu,"Üldosa, A1, 54",,,name+years
+JOHANNES,KADAK,1910-04-15,1976-12-20,,Laiuse kalmistu,"Üldosa, A-1, 144",,,exact
+LEHTE,KADAK,1924-02-02,1993-03-01,,Laiuse kalmistu,"Üldosa, A-1, 144",,,exact
+MAIMU,KADAK,1952-01-23,2010-11-27,,Laiuse kalmistu,"Üldosa, A-2, 257A",,,exact
+MAIU,KADAK,1968-07-06,2020-09-27,2020-10-03,Laiuse kalmistu,"Üldosa, A-2, 257A",,,exact
+TÕNIS,KADAK,1956-05-22,2005-07-24,,Laiuse kalmistu,"Üldosa, A-1, 144",,,exact
+JOHANNES,KADAK,1889-11-28,1964-08-17,,Lihula Vana kalmistu,"Uus osa, IV, 2-11",,,name+years
+LIISA,KADAK,1894-03-12,1977-06-16,,Lihula Vana kalmistu,"Uus osa, IV, 2-11",,,name+years
+ILSE-ELFRIIDE,KADAK,1926-12-03,2001-08-30,2001-09-02,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-1, 15-5",,,exact
+NEEME,KADAK,1954-05-28,1992-09-05,1992-09-11,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-1, 15-5",,,exact
+ROBERT,KADAK,1922-05-28,1984-06-11,1984-06-16,Lohusuu Eestiküla kalmistu,"Lohusuu Eestiküla kalmistu, A-1, 15-5",,,dates
+AIN,KADAK,1969-05-19,2002-06-18,,Nissi kalmistu,"Nissi kalmistu, II, 20-8A",,,name+years
+ANTI,KADAK,1968-01-09,2022-05-15,2022-05-21,Nissi kalmistu,"Nissi kalmistu, II, 20-8A",,,exact
+ANTS,KADAK,1937-09-10,1993-09-29,,Nissi kalmistu,"Nissi kalmistu, II, 20-8A",,,name+years
+GUNNAR,KADAK,1962-12-19,2024-01-31,2024-02-17,Nissi kalmistu,"Nissi kalmistu, II, 20-8A",,,exact
+LEENA,KADAK,,1936-03-16,,Nõo kalmistu,"Nõo kalmistu, 10, 101",,,name+death
+TÕNIS,KADAK,,1926-10-22,,Nõo kalmistu,"Nõo kalmistu, 10, 101",,,name+death
+SALME,KADAK,1939-09-17,2018-06-12,2018-07-07,Nõva kalmistu,"Nõva, 4. kvartal, 589",,,exact
+URMAS,KADAK,1965-07-10,1991-10-18,,Nõva kalmistu,"Nõva, 4. kvartal, 589",,,exact
+MARI,KADAK,1888-12-25,1975-02-22,,Paistu kalmistu,"Paistu kalmistu, VI, 45",,,name+years
+ELMAR,KADAK,1915-11-28,1980-01-26,1980-02-02,Pärnu Metsakalmistu,"Üldosa, 4, 15-6",,,name+death
+ADELE,KADAK,1906-09-28,1973-09-12,1973-09-15,Põltsamaa Linna kalmistu,"1938.aed, Jagu 2, 15-3",,,exact
+ARVO,KADAK,1951-01-27,2023-06-07,2023-07-04,Põltsamaa Linna kalmistu,"1938.aed, Jagu 2, 15-3",,,exact
+ELMAR,KADAK,1920-03-18,2012-07-15,2012-07-20,Põltsamaa Linna kalmistu,"1938.aed, Jagu 2, 15-3",,,exact
+HARALD,KADAK,1910-09-30,1974-11-24,1974-11-30,Põltsamaa Linna kalmistu,"Keskaed, Jagu 5, 6-10",,,exact
+MARIA,KADAK,1881-05-19,1961-11-20,1961-11-26,Põltsamaa Linna kalmistu,"1925.aed, Jagu 1, 2-1",,,exact
+OTTILIE,KADAK,1907-06-29,1993-10-30,1993-11-05,Põltsamaa Linna kalmistu,"Keskaed, Jagu 5, 6-10",,,exact
+PILVI-ADELEID,KADAK,1927-06-20,2003-03-10,2003-03-14,Põltsamaa Linna kalmistu,"Keskaed, Jagu 9, 11-9",,,exact
+PRITS,KADAK,1873-12-26,1960-12-14,1960-12-20,Põltsamaa Linna kalmistu,"1938.aed, Jagu 2, 15-3",,,exact
+RAIVO,KADAK,1949-05-10,2010-09-23,2010-09-26,Põltsamaa Linna kalmistu,"1990.aed, Jagu 2, 15-9",,,exact
+AKSEL,KADAK,1920-03-09,1992-04-10,,Põlva Linna kalmistu,"Uus osa, 46, 21",,,name+years
+ENDLA-LOREIDA,KADAK,1924-07-29,2006-08-04,,Põlva Linna kalmistu,"Uus osa, 46, 21",,,exact
+ERICH,KADAK,1921-03-07,1987-08-10,,Põlva Linna kalmistu,"Vana osa, 3, 125",,,name+years
+SALME,KADAK,1921-01-19,1981-12-20,,Põlva Linna kalmistu,"Vana osa, 3, 125",,,name+years
+ÜLLE,KADAK,1956-07-26,2025-06-22,,Põlva Linna kalmistu,"Uus osa, 46, 21",,,exact
+ILMAR,KADAK,1956-04-14,2021-04-20,2021-05-08,Raasiku Uus kalmistu,"Raasiku Uus kalmistu, II, RIDA 5, PLATS 11",,,exact
+ENDEL,KADAK,1951-05-09,1971-07-17,1971-07-24,Raasiku Vana kalmistu,"vana, IV, RIDA 19, PLATS 9",,,exact
+ENDEL,KADAK,1951-05-09,1971-07-17,1971-07-24,Raasiku Vana kalmistu,"vana, IV, _",,,name+death
+GUSTAV,KADAK,1886-08-15,1965-07-10,1965-07-14,Raasiku Vana kalmistu,"vana, I, RIDA 4, PLATS 5",,,name+death
+MARIA,KADAK,1894-06-29,1974-08-24,1974-08-28,Raasiku Vana kalmistu,"vana, I, _",,,name+death
+MEINHARD,KADAK,1926-08-05,1926-10-27,,Raasiku Vana kalmistu,"vana, I, RIDA 4, PLATS 5",,,name+years
+PÄRNALD,KADAK,1933-01-31,1980-01-15,1980-01-20,Raasiku Vana kalmistu,"vana, IV, RIDA 28, PLATS 7",,,name+death
+PÄRNALD,KADAK,1933-01-31,1980-01-15,1980-01-20,Raasiku Vana kalmistu,"vana, IV, _",,,name+death
+NELJA,KADAK,1938-03-28,2008-03-09,,Rakvere Linnakalmistu,"linnakalmistu, 4, 123",,,dates
+MIINA,KADAK,,1937-12-25,1938-01-01,Rannamõisa kalmistu,"Rannamõisa kalmistu, 2, 37-7/8",,,name+burial
+HANS,KADAK,1852-08-04,1930-10-10,1930-10-15,Rannu kalmistu,"Rannu kalmistu, C, 9e",,,name+death
+JUULA,KADAK,1856-01-27,1930-05-12,1930-05-25,Rannu kalmistu,"Rannu kalmistu, C, 9c",,,name+years
+ARKADI,KADAK,1923-03-03,1992-09-24,,Rapla kalmistu,"Uus osa, XXXIX, 47",,,exact
+SIIM,KADAK,1985-09-18,1996-10-27,1996-11-03,Rapla kalmistu,"Vana osa, XII, 104",,,exact
+LIISU,KADAK,1854-03-17,1929-04-02,,Ridala Uus kalmistu,"Uus, VII, 3-4",,,name+years
+ÜLO,KADAK,1959-05-03,2024-01-03,,Riigiküla kalmistu,"Riigiküla kalmistu, 33, 25265",,,exact
+MARKO,KADAK,1974-05-12,2020-09-13,2020-09-26,Rosma kalmistu,"Üldosa, 1, 1.a",,,exact
+ERNST,KADAK,1947-08-02,2025-10-21,2025-11-02,Saha kalmistu,"Uus osa, U, U-217",,,exact
+AUGUST,KADAK,1885-12-11,1948-11-24,,Siimusti kalmistu,"Üldosa, A-4, 21",,,name+years
+JANAR,KADAK,1988-09-21,1993-03-18,1993-03-23,Siimusti kalmistu,"Üldosa, A-10, 67",,,exact
+RUDOLF,KADAK,1927-07-16,1999-02-10,,Siimusti kalmistu,"Üldosa, A-1, 60",,,name+years
+ANETE,KADAK,1886-12-31,1973-11-16,1973-11-25,Simuna kalmistu,"Simuna kalmistu, 2, 11-6",,,exact
+ANTON,KADAK,1892-04-28,1962-02-02,1962-02-11,Simuna kalmistu,"Simuna kalmistu, 3, 39-23",,,exact
+JOOSEP,KADAK,1892-07-31,1949-03-29,,Simuna kalmistu,"Simuna kalmistu, 1, 13-6",,,exact
+ROSALIE,KADAK,1895-10-20,1974-02-23,1974-03-03,Simuna kalmistu,"Simuna kalmistu, 1, 13-6",,,exact
+VALTER,KADAK,1923-03-19,1943-05-18,,Simuna kalmistu,"Simuna kalmistu, 2, 11-6",,,exact
+VELLI,KADAK,1892-03-20,1963-02-04,1963-02-10,Simuna kalmistu,"Simuna kalmistu, 3, 39-23",,,exact
+HILDA,KADAK,1938-05-29,2011-08-25,,Sininõmme kalmistu,"Sininõmme, 1, 125",,,name+years
+ANETTE,KADAK,1889-10-11,1956-08-25,1956-08-30,Tallinna Hiiu-Rahu kalmistu,"HK, III, 17-4",,,name+burial
+ANNA,KADAK,1886-10-30,1972-09-02,1972-09-05,Tallinna Hiiu-Rahu kalmistu,"HK, IV, 13-1",,,name+burial
+FERDINAND,KADAK,1884-07-06,1960-05-26,1960-05-29,Tallinna Hiiu-Rahu kalmistu,"HK, IV, 13-1",,,name+burial
+JAAN,KADAK,1891-01-25,1943-03-01,1943-03-07,Tallinna Hiiu-Rahu kalmistu,"HK, III, 17-4",,,name+birth
+AGNESSA,KADAK,1914-04-05,1995-07-15,1995-07-21,Tallinna Liiva kalmistu,"Vi, M II, 12-8",,,exact
+ELVIIRA,KADAK,1907-09-04,1988-02-24,1988-03-14,Tallinna Liiva kalmistu,"M, G II, 38-182",,,name+death
+ENDEL,KADAK,1922-09-25,1984-10-02,1984-10-05,Tallinna Liiva kalmistu,"V, K, 13-30",,,name+death
+JULIUS,KADAK,1911-01-30,1958-12-11,1958-12-16,Tallinna Liiva kalmistu,"V, C I, 6-13",,,name+burial
+KUSTAV,KADAK,1873-04-04,1937-08-14,1937-08-17,Tallinna Liiva kalmistu,"V, D, 6-42",,,name+burial
+KUZMA,KADAK,1954-11-10,2007-11-10,,Tallinna Liiva kalmistu,"Vi, M II, 12-8",,,exact
+LEENA,KADAK,1871-01-01,1968-08-11,1968-08-13,Tallinna Liiva kalmistu,"V, C, 1-16",,,exact
+MADLI,KADAK,1945-03-07,1945-07-16,1945-07-18,Tallinna Liiva kalmistu,Hauaplatsi asukoht teadmata.,,,name+burial
+MAGETHA,KADAK,1930-09-08,2013-06-06,,Tallinna Liiva kalmistu,"V, BU, 4-6",,,exact
+MARIANNE,KADAK,1941-11-16,1941-11-19,1941-11-21,Tallinna Liiva kalmistu,Hauaplatsi asukoht teadmata.,,,name+burial
+RAIVO,KADAK,1937-10-30,1995-08-19,1995-08-31,Tallinna Liiva kalmistu,Hauaplatsi asukoht teadmata.,,,name+death
+VIRVE,KADAK,1957-09-14,2014-04-15,,Tallinna Liiva kalmistu,"Vi, M, 6-16",,,exact
+ALLA-ALVIINE,KADAK,1927-06-25,2019-12-28,,Tallinna Metsakalmistu,"V, 5, 1725",,,exact
+ALVINE-VILHELMINE,KADAK,1907-11-20,1990-12-14,1990-12-20,Tallinna Metsakalmistu,"U, 16, 15",,,exact
+ANU-KRISTA,KADAK,1959-09-24,2022-01-10,,Tallinna Metsakalmistu,"UM, UMII, 13",,,exact
+AVO,KADAK,1955-09-20,1955-10-09,1955-10-12,Tallinna Metsakalmistu,"V, 5, 1725",,,name+burial
+EVALD,KADAK,1929-03-07,1988-09-24,1988-09-30,Tallinna Metsakalmistu,"V, 5, 1725",,,exact
+HILDE,KADAK,1920-05-28,2010-09-24,,Tallinna Metsakalmistu,"UM, UMII, 13",,,exact
+KARL,KADAK,1921-08-14,1966-11-18,1966-11-25,Tallinna Metsakalmistu,"V, 4P, 143",,,name+burial
+MATI,KADAK,1957-07-26,2025-12-07,,Tallinna Metsakalmistu,"U, 24, 3/21",,,exact
+PEETER,KADAK,1894-04-11,1963-09-07,1963-09-12,Tallinna Metsakalmistu,"V, 4, 3912A",,,name+burial
+SELMA,KADAK,1909-01-20,1989-10-04,1989-10-10,Tallinna Metsakalmistu,"V, 10, 4601B",,,exact
+ALEKSANDER,KADAK,1913-11-11,1975-12-27,1975-12-31,Tallinna Pärnamäe kalmistu,"PIII, 22, B-133",,,name+death
+ALIDE,KADAK,1905-11-14,1980-12-02,1980-12-04,Tallinna Pärnamäe kalmistu,"VI, 10/30, B-159",,,name+death
+ALIDE,KADAK,1907-11-03,1982-08-11,1982-08-17,Tallinna Pärnamäe kalmistu,"PIII, 22, B-133",,,name+death
+ALVIINE-KATARIINA,KADAK,1913-02-23,2002-05-16,2002-05-21,Tallinna Pärnamäe kalmistu,"VI, 10/30, C-238",,,exact
+ANTONINA-REGINA,KADAK,1935-07-10,2019-09-10,,Tallinna Pärnamäe kalmistu,"PIII, 26, D-461",,,exact
+ANTS-REIN,KADAK,1937-10-02,1995-03-04,1995-03-11,Tallinna Pärnamäe kalmistu,"VII, 41, D-441",,,name+death
+ARVO,KADAK,1939-05-22,1999-03-21,1999-04-17,Tallinna Pärnamäe kalmistu,"PII, 29, G-857",,,exact
+ARVO,KADAK,1947-12-19,1984-04-28,1984-05-05,Tallinna Pärnamäe kalmistu,"K, 55, A-132",,,exact
+ASTA,KADAK,1926-07-19,2003-01-08,2003-01-11,Tallinna Pärnamäe kalmistu,"VI, 10/33, D-327",,,exact
+AUGUST,KADAK,1897-02-13,1979-09-22,1979-09-25,Tallinna Pärnamäe kalmistu,"VI, 10/30, B-159",,,name+death
+DAISI,KADAK,1934-09-04,2017-04-30,,Tallinna Pärnamäe kalmistu,"K, 57, C-492",,,exact
+EDGAR,KADAK,1920-06-06,2000-04-29,2000-05-04,Tallinna Pärnamäe kalmistu,"PI, 15A, A-10",,,exact
+ELFRIDE-PAULINE,KADAK,1899-08-13,1987-02-10,1987-02-13,Tallinna Pärnamäe kalmistu,"K, 62, D-176",,,name+death
+ELVI,KADAK,1912-03-09,1979-06-27,1979-07-01,Tallinna Pärnamäe kalmistu,"VI, 10/29, A-159",,,name+death
+ERIK,KADAK,1918-09-30,2009-07-15,2009-07-18,Tallinna Pärnamäe kalmistu,"VI, 10/3, D-272",,,exact
+ERNA-ELFRIIDE,KADAK,1943-08-06,2020-02-02,,Tallinna Pärnamäe kalmistu,"PIII, 24, B-115",,,exact
+HELMI,KADAK,1911-09-02,1977-02-19,1977-02-25,Tallinna Pärnamäe kalmistu,Hauaplatsi asukoht teadmata.,,,name+death
+IDA,KADAK,1896-07-24,1979-08-10,1979-08-14,Tallinna Pärnamäe kalmistu,"PIII, 25, B-209",,,name+death
+IRINA,KADAK,1946-10-27,1999-07-19,1999-07-21,Tallinna Pärnamäe kalmistu,"VI, 10/20, A-5",,,exact
+LAINE,KADAK,1936-03-27,2011-12-23,,Tallinna Pärnamäe kalmistu,"PII, 12, J-326",,,exact
+LEILI-MARIE,KADAK,1941-07-07,2019-04-24,,Tallinna Pärnamäe kalmistu,"PII, 29, G-857",,,exact
+LEMBIT,KADAK,1926-04-06,1975-10-15,1975-10-19,Tallinna Pärnamäe kalmistu,"VI, 10/33, D-327",,,name+death
+LEONARD,KADAK,1924-12-28,1985-02-13,1985-02-19,Tallinna Pärnamäe kalmistu,"VI, 10/3, D-272",,,name+death
+LUDVIG,KADAK,1906-11-26,1989-10-20,1989-10-26,Tallinna Pärnamäe kalmistu,"PIII, 22, C-254",,,name+death
+MAI,KADAK,1941-05-24,2019-07-09,,Tallinna Pärnamäe kalmistu,"VII, 41, D-441",,,exact
+MAREK,KADAK,1973-09-07,1973-09-07,1973-09-12,Tallinna Pärnamäe kalmistu,"PIII, 24, B-115",,,name+death
+MARIE,KADAK,1895-10-29,1982-06-19,1982-06-24,Tallinna Pärnamäe kalmistu,"PI, 15A, A-10",,,name+death
+MARIE,KADAK,1903-09-15,1998-04-30,1998-05-08,Tallinna Pärnamäe kalmistu,"VI, 10/33, B-183",,,name+death
+MEINHARD,KADAK,1910-02-16,1974-10-28,1974-11-01,Tallinna Pärnamäe kalmistu,"PI, 15, C-371a",,,name+death
+MINNI,KADAK,1908-10-09,1981-07-02,1981-07-14,Tallinna Pärnamäe kalmistu,"VI, 10/21, A-22",,,name+death
+OSVALD,KADAK,1913-08-30,1971-12-10,1971-12-15,Tallinna Pärnamäe kalmistu,"VI, 10/21, A-22",,,name+death
+PAUL,KADAK,1908-07-16,1981-07-08,1981-07-12,Tallinna Pärnamäe kalmistu,"VI, 10/30, C-238",,,name+death
+REIN,KADAK,1942-10-27,2020-12-25,,Tallinna Pärnamäe kalmistu,"PIII, 24, B-115",,,exact
+RUDOLF,KADAK,1908-10-26,1977-01-06,1977-01-13,Tallinna Pärnamäe kalmistu,"VI, 10/33, B-183",,,name+death
+SAADI-HELMUT,KADAK,1926-05-02,1968-09-22,1968-09-28,Tallinna Pärnamäe kalmistu,"PII, 12, J-326",,,exact
+SELMA,KADAK,1918-10-21,2005-04-02,2005-04-07,Tallinna Pärnamäe kalmistu,"PI, 15A, A-10",,,exact
+SELMA,KADAK,1915-03-23,1980-07-23,1980-07-29,Tallinna Pärnamäe kalmistu,"PIII, 22, C-254",,,name+death
+VAIKE,KADAK,1927-12-21,2010-01-10,2010-01-16,Tallinna Pärnamäe kalmistu,"K, 62, B-79a",,,exact
+JAKOB,KADAK,1876-03-16,1958-04-15,1958-04-19,Tallinna Pirita kalmistu,"P, I, 13-5",,,exact
+JUULI,KADAK,1883-12-22,1966-07-26,1966-06-30,Tallinna Pirita kalmistu,"P, I, 13-5",,,name+birth
+AGNES,KADAK,1919-07-07,1939-03-25,1939-03-25,Tallinna Rahumäe kalmistu,"V, KV I/IV, 17-9",,,name+burial
+ALBERT-MARTIN,KADAK,1917-05-26,2005-04-22,,Tallinna Rahumäe kalmistu,"V, AD I, 1-8",,,exact
+ALIDE,KADAK,1909-02-27,1962-12-29,1963-01-03,Tallinna Rahumäe kalmistu,"V, KV II/I, 20-2",,,name+burial
+ALMA,KADAK,1893-12-29,1982-01-25,1982-01-30,Tallinna Rahumäe kalmistu,"L, O II, 21-12",,,name+burial
+ALMA,KADAK,1914-08-25,2003-10-27,,Tallinna Rahumäe kalmistu,"U, KU C, 7-8",,,exact
+ANTON,KADAK,1882-12-28,1940-12-10,1941-01-01,Tallinna Rahumäe kalmistu,"U, KU C, 7-8",,,name+burial
+ASTA,KADAK,1925-03-03,1928-05-23,1928-05-23,Tallinna Rahumäe kalmistu,"L, O II, 21-12",,,name+burial
+BENITA,KADAK,1909-12-25,1995-02-14,1995-02-18,Tallinna Rahumäe kalmistu,"V, AD I, 1-8",,,name+burial
+BRUNO-HARALD,KADAK,1898-03-08,1941-06-05,1941-06-08,Tallinna Rahumäe kalmistu,"V, PA BI, 17-1",,,name+burial
+EDGAR,KADAK,1918-07-26,1981-09-13,1981-09-17,Tallinna Rahumäe kalmistu,"V, PV AII, 17-11",,,name+burial
+ERIKA,KADAK,1928-12-21,2001-12-23,,Tallinna Rahumäe kalmistu,"V, KV II/I, 20-2",,,exact
+HANS,KADAK,1931-09-29,1996-06-30,1996-07-04,Tallinna Rahumäe kalmistu,"V, PV CII, 3-8",,,name+burial
+HERMANN,KADAK,,1954-05-18,1954-05-21,Tallinna Rahumäe kalmistu,"U, KU C, 7-8",,,name+burial
+HILDA,KADAK,1906-02-15,1997-10-11,1997-10-16,Tallinna Rahumäe kalmistu,"V, PV AI, 19-6A",,,name+burial
+HILDA,KADAK,1929-07-20,1992-08-04,1992-08-07,Tallinna Rahumäe kalmistu,"V, LN KI, 6-13",,,name+burial
+JÜRI,KADAK,1941-12-08,2018-12-28,,Tallinna Rahumäe kalmistu,"V, KV II/II, 33-5",,,exact
+JUULIE,KADAK,,1957-03-17,1957-03-23,Tallinna Rahumäe kalmistu,"V, KV I/IV, 36-7",,,name+burial
+KAARI,KADAK,1928-07-11,2008-01-17,2008-01-17,Tallinna Rahumäe kalmistu,"V, KV I/IV, 36-7",,,name+burial
+KALJO,KADAK,1932-12-28,1993-12-27,1993-12-30,Tallinna Rahumäe kalmistu,"V, KV II/I, 20-2",,,name+burial
+KALLE,KADAK,1956-04-26,1999-10-19,,Tallinna Rahumäe kalmistu,"L, O II, 7-2",,,name+death
+LAINE,KADAK,1914-04-26,1988-01-28,1988-02-05,Tallinna Rahumäe kalmistu,"L, O II, 35-10",,,name+burial
+LEIDA-MARIANNE,KADAK,1914-04-22,1996-12-12,1996-12-17,Tallinna Rahumäe kalmistu,"V, PV AII, 17-11",,,name+burial
+LEMBIT,KADAK,1927-05-24,1993-05-29,1993-06-02,Tallinna Rahumäe kalmistu,"L, O II, 35-10",,,name+burial
+MARI,KADAK,1900-09-24,1942-01-08,1942-01-11,Tallinna Rahumäe kalmistu,"U, KU C, 7-8",,,name+burial
+OLGA-VILHELMINE,KADAK,1910-02-17,2001-11-21,,Tallinna Rahumäe kalmistu,"V, KV II/II, 33-5",,,exact
+OTTO,KADAK,1908-02-26,1981-04-15,1981-04-19,Tallinna Rahumäe kalmistu,"V, JV F, 24-4",,,name+burial
+REET,KADAK,1957-03-13,2013-08-09,,Tallinna Rahumäe kalmistu,"V, JV C, 27-8",,,exact
+RIINA,KADAK,1950-12-29,2021-05-23,,Tallinna Rahumäe kalmistu,"V, KV I/I, 17-6",,,exact
+RUDOLF,KADAK,1885-08-22,1941-07-10,1941-07-12,Tallinna Rahumäe kalmistu,"L, O II, 21-12",,,name+burial
+SALME,KADAK,1903-07-25,1993-11-15,1993-11-18,Tallinna Rahumäe kalmistu,"V, PA BII, 5-10",,,name+burial
+TIIT,KADAK,1956-04-17,2008-06-03,,Tallinna Rahumäe kalmistu,"V, PV CII, 11-8",,,exact
+TIIU,KADAK,1894-06-07,1982-05-23,1982-05-28,Tallinna Rahumäe kalmistu,"U, KU C, 7-8",,,name+burial
+VILONIE,KADAK,1907-01-30,1988-02-23,1988-02-27,Tallinna Rahumäe kalmistu,"V, JV F, 24-4",,,name+burial
+VIVIAN,KADAK,1934-06-09,2021-01-18,,Tallinna Rahumäe kalmistu,"V, PV CII, 3-8",,,exact
+ADRIAN,KADAK,1945-01-04,2006-09-20,,Tallinna Siselinna kalmistu,"A, AN I-2, 5-28",,,exact
+AUGUSTIN,KADAK,1902-01-05,1946-04-01,1946-04-07,Tallinna Siselinna kalmistu,"A, AN I-2, 5-28",,,name+burial
+ESTER,KADAK,1953-01-16,2026-07-26,,Tallinna Siselinna kalmistu,"VK, K V, 25-23",,,exact
+HELGA,KADAK,1919-02-04,2006-08-18,,Tallinna Siselinna kalmistu,"VK, K XI, 3-9",,,exact
+MARFA,KADAK,1906-04-01,1966-01-03,1966-01-09,Tallinna Siselinna kalmistu,"A, AN I-2, 5-28",,,name+birth
+RUDOLF,KADAK,,1953-10-15,1953-10-20,Tallinna Siselinna kalmistu,Hauaplatsi asukoht teadmata.,,,name+burial
+ÜLO,KADAK,1945-12-19,2010-08-11,,Tallinna Siselinna kalmistu,"VK, K V, 25-23",,,exact
+VALENTINA,KADAK,1940-02-16,2025-11-18,,Tallinna Siselinna kalmistu,"A, AN I-2, 5-28",,,exact
+ELIISE,KADAK,1897-11-27,1966-05-20,,Tapa kalmistu,"Üldosa, Esimene, 4-1",,,dates
+REIN,KADAK,1951-02-28,2023-11-28,2024-05-05,Tapa kalmistu,"Üldosa, Teine, 3-7",,,exact
+TAIMI,KADAK,1951-02-25,2022-03-28,2022-07-02,Tapa kalmistu,"Üldosa, Teine, 3-7",,,exact
+ANO,KADAK,1866-12-18,1962-01-13,,Tarvastu kalmistu,"Üldine, 24, 3",,,dates
+ANNA,KADAK,1916-08-24,1997-12-01,1997-12-04,Tarvastu kalmistu,"Üldine, 5, 50",,,name+birth
+ELS,KADAK,1874-06-02,1961-01-02,1961-01-07,Tarvastu kalmistu,"Üldine, 24, 3",,,dates
+TIIT,KADAK,1952-10-26,2007-11-02,,Tarvastu kalmistu,"Üldine, 9, 13a",,,exact
+ALMA,KADAK,1895-04-22,1978-10-22,1978-10-29,Torma kalmistu,"Vana osa, XI, 298",,,exact
+ARMIN,KADAK,1913-10-24,1985-12-14,1985-12-22,Torma kalmistu,"Uus osa, XVI, 28",,,exact
+ELFRIEDE-ARMILDE,KADAK,1923-01-01,2014-09-02,2015-06-28,Torma kalmistu,"Vana osa, XI, 298",,,exact
+EMIL,KADAK,1912-01-25,1934-04-17,,Torma kalmistu,"Vana osa, XI, 186",,,exact
+HELMI-LORENE,KADAK,1919-11-18,1995-05-18,1995-05-24,Torma kalmistu,"Uus osa, XVI, 28",,,dates
+LEMBIT,KADAK,1937-01-02,2012-01-02,2012-05-05,Torma kalmistu,"Vana osa, XI, 17",,,exact
+LIISA,KADAK,1884-01-06,1962-04-08,1962-04-15,Torma kalmistu,"Vana osa, XI, 186",,,dates
+MADIS,KADAK,1878-02-19,1942-08-22,,Torma kalmistu,"Vana osa, VII, 13",,,name+birth
+MIHKEL,KADAK,1900-02-06,1988-05-04,1988-05-10,Torma kalmistu,"Vana osa, XI, 298",,,exact
+MINNA-ROSALIE,KADAK,1886-09-01,1962-03-08,1962-03-15,Torma kalmistu,"Vana osa, VII, 13",,,dates
+SALME,KADAK,1919-04-08,1986-03-07,1986-03-15,Torma kalmistu,"Vana osa, XI, 186",,,exact
+SALME-AMALIE,KADAK,1912-02-07,1991-02-19,1991-02-24,Torma kalmistu,"Vana osa, XIV, 72",,,dates
+TOIVO,KADAK,1942-03-04,2015-04-26,2015-08-14,Torma kalmistu,"Vana osa, XIV, 72",,,exact
+VELLO,KADAK,1940-01-21,2007-06-02,2007-06-05,Torma kalmistu,"Vana osa, XI, 186",,,exact
+AUGUST,KADAK,1909-08-19,1990-04-07,,Tõrma kalmistu,"Tõrma, 2. kvartal, 9.2-12",,,exact
+BERNHARD,KADAK,1928-03-05,1988-11-27,,Tõrma kalmistu,"Tõrma, 8. kvartal, 9.2-2",,,exact
+GUSTAV,KADAK,1886-12-20,1940-08-13,,Tõrma kalmistu,"Tõrma, 3. kvartal, 14.2-2",,,name+years
+HILDA,KADAK,1920-01-30,2006-09-22,,Tõrma kalmistu,"Tõrma, 2. kvartal, 9.2-12",,,exact
+IDA,KADAK,1927-05-15,1990-06-05,,Tõrma kalmistu,"Tõrma, 2. kvartal, 6.1-20",,,exact
+JEKATERINA,KADAK,1921-03-20,1995-02-26,,Tõrma kalmistu,"Tõrma, 8. kvartal, 9.2-2",,,name+death
+JOHANNES,KADAK,1922-04-10,1968-07-17,,Tõrma kalmistu,"Tõrma, 2. kvartal, 6.1-20",,,exact
+AIME-LEEN,KADAK,1943-04-06,2024-09-06,2024-09-14,Tuhala kalmistu,"VANA OSA, III, 1A-9",,,exact
+ELLE,KADAK,1942-02-28,1942-03-05,,Tuhala kalmistu,"VANA OSA, V, 1-9",,,name+years
+JOHANNES,KADAK,1908-06-20,1977-05-19,1977-05-26,Tuhala kalmistu,"VANA OSA, III, 1A-9",,,name+death
+AARE,KADAK,1959-04-06,1982-01-01,1982-01-10,Uulu kalmistu,"Üldosa, 3, 10a-4",,,exact
+HELGA,KADAK,1910-09-23,1990-11-23,1990-11-28,Uulu kalmistu,Hauaplatsi asukoht teadmata.,,,exact
+HELLERHEINA,KADAK,1932-01-13,2018-12-21,2018-12-29,Uulu kalmistu,"Üldosa, 3, 10a-4",,,exact
+LENNART,KADAK,1935-01-11,2026-09-21,2026-09-26,Uulu kalmistu,"Üldosa, 3, 10a-4",,,exact
+LEONHARD,KADAK,1906-01-08,1981-10-17,1981-10-23,Uulu kalmistu,Hauaplatsi asukoht teadmata.,,,exact
+ERICH,KADAK,1922-10-16,1981-03-05,,Väike-Maarja Uus kalmistu,"Uus kalmistu, 1, 29-9/1",,,exact
+LEIDA,KADAK,1919-12-21,2000-01-30,2000-02-05,Väike-Maarja Uus kalmistu,"Uus kalmistu, 1, 29-9/1",,,exact
+ELVI-IRENE,KADAK,1930-04-29,2025-05-08,,Vana-Pärnu kalmistu,"Üldosa, Kvartal 30, 8-6",,,exact
+HARRI,KADAK,1934-04-08,2010-05-02,2010-05-06,Vana-Pärnu kalmistu,"Üldosa, Kvartal 30, 8-6",,,exact
+NIKOLAI,KADAK,1922-11-27,1978-01-14,1978-01-19,Vastseliina kalmistu,"Vastseliina kalmistu, 4. kvartal, 219",,,name+death
+RENATE,KADAK,1925-03-19,2022-10-21,2022-10-29,Vastseliina kalmistu,"Vastseliina kalmistu, 4. kvartal, 219",,,exact
+TÕNU,KADAK,1960-01-22,2018-08-14,2018-08-27,Vastseliina kalmistu,"Vastseliina kalmistu, 4. kvartal, 219",,,exact
+AUGUST,KADAK,1890-03-22,1959-07-19,1959-07-23,Viljandi Toome kalmistu,"Vanem osa, Toome I, 22-12",,,name+death
+VALTER,KADAK,1913-07-22,1995-02-20,1995-02-25,Viljandi Vana kalmistu,"Jaani Kogudus, Jaani IV, 197-15",,,exact
+ELFRIDE,KADAK,1906-07-23,1988-09-03,,Viru-Nigula kalmistu,"Üld, II kvartal, 354",,,name+years
+EMILIE,KADAK,1885-08-07,1974-04-29,,Viru-Nigula kalmistu,"Üld, XIII kvartal, 123",,,name+years
+LEMBIT,KADAK,1948-02-22,2003-04-10,,Viru-Nigula kalmistu,"Üld, II kvartal, 371",,,exact
+AIVAR,KADAK,1957-07-22,2004-10-29,2004-11-13,Võru kalmistu,"Vana osa, II, K-34",,,exact
+HELENA,KADAK,1885-12-30,1971-10-29,,Võru kalmistu,"Vana osa, II, H-55",,,dates
+LEIDA,KADAK,1927-09-05,2017-11-07,2018-01-19,Võru kalmistu,"Vana osa, II, K-34",,,exact
+MAIMU,KADAK,1931-09-21,1985-10-12,,Võru kalmistu,"Vana osa, I, F-89",,,exact
+OSVALD,KADAK,1924-08-09,1991-10-22,,Võru kalmistu,"Uus osa, IX, D-6",,,exact
+PEETER,KADAK,1928-06-23,2001-01-13,2001-01-13,Võru kalmistu,"Vana osa, II, K-34",,,exact
+SILVIA,KADAK,1926-07-06,2015-10-01,2015-10-07,Võru kalmistu,"Uus osa, IX, D-6",,,exact
+VALTER,KADAK,1941-04-28,1982-04-01,,Võru kalmistu,"Vana osa, VIII, J-1",,,exact
+JÜRI,KADAK,1934-12-29,2008-07-16,2008-07-22,Jaanipeebu kalmistu,Hauaplatsi asukoht teadmata.,,,name+death
+MARIE,KADAK,1887-12-30,1974-02-03,1974-02-09,Jaanipeebu kalmistu,Hauaplatsi asukoht teadmata.,,,name+death
+MINNA-ELFRIEDE,KADAK,1912-04-30,2000-12-30,2001-01-03,Jaanipeebu kalmistu,Hauaplatsi asukoht teadmata.,,,name+death

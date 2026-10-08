@@ -13,8 +13,9 @@ strictest rule that fits:
   name+burial  first name equal, buried 0 to 45 days after the registered death
   name+years   first name equal, same birth year and death year
 
-Writes joined.jsonl beside the input: one line per burial row, with the matched
-register record when there is one.
+Writes two files beside the input: joined.jsonl (every burial row, with the
+matched register record when there is one) and matches.csv (matched rows only:
+the register's name and dates, then where the person is buried).
 """
 import collections
 import csv
@@ -29,6 +30,7 @@ RAW = ROOT / "data" / "raw"
 REGISTER_START = "1926-07-01"
 TIERS = ("exact", "dates", "name+death", "name+birth", "name+burial", "name+years")
 BURIAL_WINDOW = 45
+MATCH_COLUMNS = ("first_name", "surname", "born", "died", "buried", "cemetery", "plot", "lat", "lon", "match")
 
 
 def first_name(value):
@@ -129,7 +131,10 @@ def main():
     matched_register = collections.defaultdict(set)
     cemeteries = collections.Counter()
     misses = []
-    with open(path.with_name("joined.jsonl"), "w", encoding="utf-8") as out:
+    with open(path.with_name("joined.jsonl"), "w", encoding="utf-8") as out, \
+            open(path.with_name("matches.csv"), "w", encoding="utf-8", newline="") as matches:
+        table = csv.writer(matches)
+        table.writerow(MATCH_COLUMNS)
         for row in burials:
             cemeteries[row["cemetery"]] += 1
             found = match(row, register.get(row["surname"], ()))
@@ -146,7 +151,10 @@ def main():
                 elif len(misses) < 10 and len(when) == 10:
                     misses.append(row)
             if found:
-                matched_register[row["surname"]].add((found[2]["first"], found[2]["born"], found[2]["died"]))
+                person = found[2]
+                matched_register[row["surname"]].add((person["first"], person["born"], person["died"]))
+                table.writerow([person["first"], person["surname"], person["born"], person["died"], row["buried"],
+                                row["cemetery"], row["plot"], row.get("lat", ""), row.get("lon", ""), TIERS[found[0]]])
             out.write(json.dumps({**row, "match": TIERS[found[0]] if found else None,
                                   "register": found[2] if found else None}, ensure_ascii=False) + "\n")
 
