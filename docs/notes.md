@@ -167,5 +167,6 @@ python3 -I scripts/join_burials.py data/haudi/rows.jsonl
 | `fetch_saaremaa.py` | Downloads Saaremaa's public burial layer with plot coordinates and headstone photo links. |
 | `scrape_surmaregister.py` | Scrapes surmaregister.ee's month pages for its full index of people. |
 | `show_matches.py` | Prints a sample of matched people and their graves from a `matches.csv`. |
+| `make_showcase.py` | Renders `docs/showcase.mp4`. Needs numpy, Pillow and ffmpeg: `uv run --python 3.12 --with numpy --with pillow scripts/make_showcase.py`. |
 | `haudi_cover.py` | Picks the search terms that reach every register surname on kalmistud.ee in the fewest pages. |
 | `scrape_haudi.py` | Scrapes kalmistud.ee by running a term list through its name search, one request at a time. Resumable; stops on a block or captcha. |

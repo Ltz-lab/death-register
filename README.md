@@ -2,6 +2,10 @@
 
 Estonia's open death records, joined to where people are buried.
 
+[![Showcase video: Tartu and Saaremaa graves appearing year by year](docs/showcase.png)](docs/showcase.mp4)
+
+*Click for the 50-second video.*
+
 ![Matching Tartu burials to the death register](docs/records.gif)
 
 | | |
