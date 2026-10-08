@@ -67,7 +67,7 @@ class Portal:
                     raise Stop(f"HTTP {error.code} on {path}: the portal is refusing requests")
                 if attempt == 3:
                     raise Stop(f"HTTP {error.code} on {path} after 4 tries")
-            except (urllib.error.URLError, TimeoutError, ConnectionError) as error:
+            except OSError as error:  # refused or dropped connections, read timeouts
                 if attempt == 3:
                     raise Stop(f"network error on {path}: {error}")
             time.sleep(10 * (attempt + 1))
@@ -131,6 +131,12 @@ def rows(page):
         }
 
 
+def show(row):
+    years = f"{row['born'][-4:] or '?':>4}-{row['died'][-4:] or '?':<4}"
+    place = row["plot"] if row["cemetery"] in row["plot"] else f"{row['cemetery']}, {row['plot']}"
+    print(f"{row['name'][:30]:<30} {years}  {place[:52]}", flush=True)
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     parser.add_argument("terms", help="file with one surname or name piece per line")
@@ -138,6 +144,7 @@ def main():
     parser.add_argument("--minutes", type=float, default=0, help="stop after this long (0 = run to the end)")
     parser.add_argument("--delay", type=float, default=1.3, help="seconds between request starts")
     parser.add_argument("--max-pages", type=int, default=0, help="per term; a term cut short is recorded as incomplete")
+    parser.add_argument("--show", action="store_true", help="print each row as it arrives")
     args = parser.parse_args()
 
     OUT.mkdir(parents=True, exist_ok=True)
@@ -171,6 +178,11 @@ def main():
                         row["term"] = term
                         out.write(json.dumps(row, ensure_ascii=False) + "\n")
                         fetched += 1
+                        if args.show:
+                            show(row)
+                    if args.show:
+                        print(f"\033[36m  {term}: page {number} of {pages}, {fetched:,} of {total:,} rows"
+                              f"   [{saved + fetched:,} rows, {portal.requests} requests]\033[0m", flush=True)
                     if number >= pages or (args.max_pages and number >= args.max_pages):
                         break
                     if deadline and time.monotonic() > deadline:
