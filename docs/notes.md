@@ -141,22 +141,6 @@ have no death date. For common names that rule will pair some burials with the
 wrong person of the same name. The error rate has not been measured; filter on
 `match` if you need only the certain ones.
 
-## Open questions
-
-- **Tartu's licence.** The open data listing names `KA_koond`, not the public
-  layer used here. Whether CC BY-SA 3.0 covers `KA_avalik_maetu` should be
-  confirmed with Tartu before anything built on it is published. If it does,
-  share-alike applies to what's derived from it.
-- **The rest of the country.** kalmistud.ee cannot be listed at a pace it
-  tolerates. The municipalities own those records and could be asked for them
-  directly; Spin TEK could be asked for an export.
-- **Saaremaa** has its own system that nobody has looked at.
-- **Showing people's pages.** Estonia's Personal Data Protection Act §9(4)
-  says no heir's consent is needed to process a dead person's name, sex, birth
-  and death dates, the fact of death, and the time and place of burial. The ID
-  code is not on that list. This was read from search-result snippets of the
-  act, not the full text, and is not legal advice.
-
 ## Running it
 
 Standard-library Python 3.9+, no dependencies. Run the scripts with `python3 -I`.
@@ -176,8 +160,3 @@ python3 -I scripts/join_burials.py data/haudi/rows.jsonl
 | `show_matches.py` | Prints a sample of matched people and their graves from a `matches.csv`. |
 | `haudi_cover.py` | Picks the search terms that reach every register surname on kalmistud.ee in the fewest pages. |
 | `scrape_haudi.py` | Walks a term list through the kalmistud.ee name search, one request at a time. Resumable; stops on a block or captcha. |
-
-## Credits
-
-Death records: Ministry of the Interior of Estonia, "Surmaandmed",
-andmed.eesti.ee, CC BY 4.0. Tartu burials: Tartu City Government.

@@ -28,9 +28,6 @@ Estonia's open death records, joined to where people are buried.
    public API. Nine requests returned all 84,193 burials with coordinates, and
    49,001 matched a death record.
 
-**Still open:** the rest of the country (ask the municipalities or Spin TEK),
-Saaremaa's separate system, and confirming Tartu's licence covers this layer.
-
 ## Data
 
 | File | Contents |
@@ -52,4 +49,4 @@ python3 -I scripts/show_matches.py data/tartu/matches.csv --match exact
 
 Python 3.9+, no dependencies.
 
-Sources, what was tried, match rules and open questions: [docs/notes.md](docs/notes.md).
+Sources, what was tried and the match rules: [docs/notes.md](docs/notes.md).
