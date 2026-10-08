@@ -2,7 +2,7 @@
 
 The portal only lists burials through its name search: a surname (exact, or
 three or more letters matched anywhere), 20 rows a page, with the search held
-in the session. This walks a list of terms one request at a time, appends
+in the session. This scrapes it one request at a time from a list of terms, appends
 each row to data/haudi/rows.jsonl and records finished terms in
 data/haudi/done.jsonl so a rerun carries on where it stopped.
 

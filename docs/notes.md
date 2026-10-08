@@ -17,6 +17,7 @@ blocked after about 450 requests.
 |---|---|
 | `data/tartu/rows.jsonl` | All 84,193 burials from Tartu's public cemetery layer, with coordinates |
 | `data/tartu/matches.csv` | The 49,001 Tartu burials matched to a death record |
+| `data/saaremaa/rows.jsonl`, `matches.csv` | All 50,044 Saaremaa burials, and the 27,727 matched to a death record |
 | `data/haudi/rows.jsonl` | 1,548 burials from kalmistud.ee (nine surnames, 119 cemeteries) |
 | `data/haudi/matches.csv` | The 946 of those matched to a death record |
 | `data/haudi/terms.txt` | The 37,134 search terms a full kalmistud.ee listing would need |
@@ -59,7 +60,7 @@ Estonia has three separate cemetery systems.
 |---|---|---|
 | Tartu City Government, [gis.tartulv.ee/kalmistud](https://gis.tartulv.ee/kalmistud/) | Tartu's 15 cemeteries | A public ArcGIS feature service, [`Kalmistu/KA_avalik_maetu`](https://gis.tartulv.ee/arcgis/rest/services/Kalmistu/KA_avalik_maetu/FeatureServer/0). 10,000 records a request |
 | Haudi, [kalmistud.ee](https://www.kalmistud.ee) | About 234 cemeteries across the country | Name search only. No bulk download or API |
-| Saaremaa municipality, [saaremaavald.ee/kalmistud](https://www.saaremaavald.ee/kalmistud/) | Saaremaa's cemeteries | Not looked at yet |
+| Saaremaa municipality, [gis.saaremaavald.ee/kalmistud](https://gis.saaremaavald.ee/kalmistud/) | Saaremaa's 33 cemeteries | The same public ArcGIS layer as Tartu, [`Kalmistud/KA_avalik_maetu`](https://gis.saaremaavald.ee/arcgis/rest/services/Kalmistud/KA_avalik_maetu/FeatureServer/0). 1,000 records a request. No licence stated |
 
 Haudi is software built and run by AS Spin TEK. Each municipality that joined
 typed in its own cemetery books and headstone inventories, and stays the owner
@@ -105,11 +106,24 @@ Every row has a name, a plot code, a cemetery and the plot's position. Dates
 are thinner: 78,304 rows have a burial date, 14,054 a death date and 13,773 a
 birth date.
 
+### 4. Found Saaremaa's too
+
+Saaremaa runs the same cemetery software as Tartu and exposes the same public
+layer. `scripts/fetch_saaremaa.py` downloaded 50,044 burials in 51 requests.
+Its dates are fuller than Tartu's (40,916 rows have a death date) and 48,493
+rows link a headstone photo.
+
+A search of the national open data portal for every cemetery and burial term
+found no other municipality. It did find four listings by Spin TEK pointing at
+kalmistud.ee, one of them "Eestis maetute register", marked public and
+unrestricted, with a link to the website and no file or API.
+
 ## Results
 
 | Source | Burials from July 1926 on | Matched to a death record |
 |---|---|---|
 | Tartu (complete) | 76,185 | 49,001 (64%), all with coordinates |
+| Saaremaa (complete) | 35,715 | 27,727 (78%), 27,410 with coordinates |
 | kalmistud.ee (nine surnames) | 1,234 | 946 (77%) |
 
 For the seven kalmistud.ee surnames fetched in full, 240 of the register's 632
@@ -120,14 +134,14 @@ people (38%) had a grave on the portal.
 `scripts/join_burials.py` pairs a burial with a register record of the same
 surname by the strictest rule that fits:
 
-| Rule | Requires | Tartu | kalmistud.ee |
-|---|---|---|---|
-| `exact` | first name, birth date and death date equal | 12,275 | 468 |
-| `dates` | birth and death dates equal, first name spelled differently | 76 | 92 |
-| `name+death` | first name and death date equal, birth date missing on one side | 271 | 173 |
-| `name+birth` | first name and birth date equal, same death year | 182 | 21 |
-| `name+burial` | first name equal, buried 0 to 45 days after the registered death | 36,140 | 64 |
-| `name+years` | first name equal, same birth and death year | 57 | 128 |
+| Rule | Requires | Tartu | Saaremaa | kalmistud.ee |
+|---|---|---|---|---|
+| `exact` | first name, birth date and death date equal | 12,275 | 18,903 | 468 |
+| `dates` | birth and death dates equal, first name spelled differently | 76 | 1,009 | 92 |
+| `name+death` | first name and death date equal, birth date missing on one side | 271 | 1,757 | 173 |
+| `name+birth` | first name and birth date equal, same death year | 182 | 732 | 21 |
+| `name+burial` | first name equal, buried 0 to 45 days after the registered death | 36,140 | 133 | 64 |
+| `name+years` | first name equal, same birth and death year | 57 | 5,193 | 128 |
 
 Three quarters of the Tartu matches are `name+burial`, because most Tartu rows
 have no death date. For common names that rule will pair some burials with the
@@ -150,6 +164,8 @@ python3 -I scripts/join_burials.py data/haudi/rows.jsonl
 | `fetch_register.py` | Downloads the ministry's two death-record files. |
 | `fetch_tartu.py` | Downloads Tartu's public burial layer with each plot's coordinates. |
 | `join_burials.py` | Matches burial rows from either source to death records and prints the rates. Writes `matches.csv` and `joined.jsonl` beside the input. |
+| `fetch_saaremaa.py` | Downloads Saaremaa's public burial layer with plot coordinates and headstone photo links. |
+| `scrape_surmaregister.py` | Scrapes surmaregister.ee's month pages for its full index of people. |
 | `show_matches.py` | Prints a sample of matched people and their graves from a `matches.csv`. |
 | `haudi_cover.py` | Picks the search terms that reach every register surname on kalmistud.ee in the fewest pages. |
-| `scrape_haudi.py` | Walks a term list through the kalmistud.ee name search, one request at a time. Resumable; stops on a block or captcha. |
+| `scrape_haudi.py` | Scrapes kalmistud.ee by running a term list through its name search, one request at a time. Resumable; stops on a block or captcha. |

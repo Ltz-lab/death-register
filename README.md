@@ -9,6 +9,7 @@ Estonia's open death records, joined to where people are buried.
 | Death records (Ministry of the Interior, open data) | 1,732,767 |
 | Tartu burials with coordinates (open data) | 84,193 |
 | Tartu burials matched to a death record | 49,001 |
+| Saaremaa burials (open API), matched to a death record | 27,727 of 50,044 |
 | kalmistud.ee burials matched, before it blocked us | 946 of 1,548 fetched |
 
 ## What happened
@@ -27,6 +28,8 @@ Estonia's open death records, joined to where people are buried.
 4. **Tartu publishes its own.** The city's 15 cemeteries are open data behind a
    public API. Nine requests returned all 84,193 burials with coordinates, and
    49,001 matched a death record.
+5. **So does Saaremaa.** Same system, same public API: 50,044 burials across 33
+   cemeteries, most with full dates and a headstone photo. 27,727 matched.
 
 ## Data
 
@@ -34,6 +37,7 @@ Estonia's open death records, joined to where people are buried.
 |---|---|
 | `data/tartu/matches.csv` | Name, birth and death dates, burial date, cemetery, plot, coordinates |
 | `data/tartu/rows.jsonl` | Every Tartu burial as published |
+| `data/saaremaa/` | The same two files for Saaremaa, with headstone photo links |
 | `data/haudi/` | The kalmistud.ee proof of concept |
 
 The death records (97 MB) are downloaded, not committed.
@@ -43,6 +47,7 @@ The death records (97 MB) are downloaded, not committed.
 ```sh
 python3 -I scripts/fetch_register.py
 python3 -I scripts/fetch_tartu.py
+python3 -I scripts/fetch_saaremaa.py
 python3 -I scripts/join_burials.py data/tartu/rows.jsonl
 python3 -I scripts/show_matches.py data/tartu/matches.csv --match exact
 ```
